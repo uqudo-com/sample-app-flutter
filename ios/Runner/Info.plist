@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+		<string>ar</string>
+		<string>fr</string>
+	</array>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
@@ -51,7 +57,7 @@
 		<string>NDEF</string>
 	</array>
 	<key>NSCameraUsageDescription</key>
-    <string>We need access to your camera to take photos.</string>
+	<string>We need access to your camera to take photos.</string>
 	<key>UQApiBaseURL</key>
 	<string>https://id.dev.uqudo.io</string>
 	<key>com.apple.developer.nfc.readersession.iso7816.select-identifiers</key>

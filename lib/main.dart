@@ -19,11 +19,12 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   String _result = '';
 
+
   @override
   void initState() {
     super.initState();
     UqudoIdPlugin.init();
-    UqudoIdPlugin.setLocale("en");
+    // UqudoIdPlugin.setLocale("ar");
     listenNativeEvent();
   }
 
@@ -80,24 +81,28 @@ class _MyAppState extends State<MyApp> {
         appBar: AppBar(
           title: const Text('Uqudo SDK Flutter Demo'),
         ),
-        body: Center(
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              OutlinedButton.icon(
-                onPressed: () => passportEnrollment(),
-                icon: const Icon(Icons.touch_app),
-                label: const Text('Start Passport Onboarding'),
-              ),
-              const SizedBox(height: 20), // Add some spacing between the button and result text
-              Padding(
-                padding: const EdgeInsets.all(8.0),
-                child: Text(
-                  'Result:\n $_result',
-                  style: const TextStyle(fontSize: 18),
+        body: SingleChildScrollView(
+          padding: const EdgeInsets.all(8.0),
+          child: Center(
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                OutlinedButton.icon(
+
+                  onPressed: () => passportEnrollment(),
+                  icon: const Icon(Icons.touch_app),
+                  label: const Text('Start Passport Onboarding'),
                 ),
-              ),
-            ],
+                const SizedBox(height: 20), // Add some spacing between the button and result text
+                Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: Text(
+                    'Result:\n $_result',
+                    style: const TextStyle(fontSize: 18),
+                  ),
+                ),
+              ],
+            ),
           ),
         ),
       ),
