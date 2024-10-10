@@ -1,741 +1,741 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>uq_help_page_text</key>
-	<dict>
-		<key>uq_scan_help_page_title</key>
-		<string>مسح %@</string>
-		<key>uq_scan_help_page_description</key>
-		<string>Fit %@ to the frame</string>
-		<key>uq_read_id_help_page_title</key>
-		<string>Scan contactless chip</string>
-		<key>uq_read_id_help_page_description</key>
-		<string>Place the back camera on ID Card  for\n10 seconds</string>
-		<key>uq_read_passport_help_page_title</key>
-		<string>Scan contactless chip</string>
-		<key>uq_read_passport_help_page_description</key>
-		<string>Place the back camera on passport for\n10 seconds</string>
-		<key>uq_read_passport_help_page_description1</key>
-		<string>Remove the cover from both the phone and the passport</string>
-		<key>uq_read_passport_help_page_description2</key>
-		<string>Hold the front page of the passport near to the phone.</string>
-		<key>uq_read_passport_help_page_description3</key>
-		<string>If the previous step doesn’t work try to open the data page of your passport and hold it near the phone.</string>
-		<key>uq_read_passport_help_page_description4</key>
-		<string>If the previous step doesn’t work try to open the back page of your passport and hold it near the phone.</string>
-		<key>uq_read_passport_help_page_number</key>
-		<string>Page %@1 - %@2</string>
-	</dict>
-	<key>uq_document_description_text</key>
-	<dict>
-		<key>uq_document_description_uae_id</key>
-		<string>Emirates ID</string>
-		<key>uq_document_description_uae_dl</key>
-		<string>Driving License</string>
-		<key>uq_document_description_uae_vl</key>
-		<string>Vehicle License</string>
-		<key>uq_document_description_omn_id</key>
-		<string>Omani ID</string>
-		<key>uq_document_description_passport</key>
-		<string>Passport</string>
-		<key>uq_document_description_pak_id</key>
-		<string>Pakistan ID</string>
-		<key>uq_document_description_sau_id</key>
-		<string>Saudi National ID</string>
-		<key>uq_document_description_bhr_id</key>
-		<string>Bahrain ID</string>
-		<key>uq_document_description_kwt_id</key>
-		<string>Kuwait ID</string>
-		<key>uq_document_description_generic_id</key>
-		<string>National ID</string>
-		<key>uq_document_description_uae_visa</key>
-		<string>UAE Visa</string>
-		<key>uq_document_description_qat_id</key>
-		<string>Qatari ID</string>
-		<key>uq_document_description_nld_dl</key>
-		<string>Driving License</string>
-		<key>uq_document_description_deu_id</key>
-		<string>German ID</string>
-		<key>uq_document_description_sdn_id</key>
-		<string>Sudan ID</string>
-		<key>uq_document_description_sdn_dl</key>
-		<string>Driving License</string>
-		<key>uq_document_description_sdn_vl</key>
-		<string>Vehicle License</string>
-		<key>uq_document_description_gha_id</key>
-		<string>Ghanaian ID</string>
-		<key>uq_document_description_nga_dl</key>
-		<string>Driving License</string>
-		<key>uq_document_description_nga_voter_id</key>
-		<string>Voter ID</string>
-		<key>uq_document_description_nga_nin</key>
-		<string>Nigerian NIN</string>
-		<key>uq_document_description_sau_dl</key>
-		<string>Driving License</string>
-		<key>uq_document_description_gbr_dl</key>
-		<string>Driving License</string>
-		<key>uq_document_description_zaf_id</key>
-		<string>South African ID</string>
-		<key>uq_document_description_zaf_dl</key>
-		<string>Driving License</string>
-		<key>uq_document_description_egy_id</key>
-		<string>Egyptian ID</string>
-		<key>uq_document_description_rwa_id</key>
-		<string>Rwandan ID</string>
-		<key>uq_document_description_ken_id</key>
-		<string>Kenyan ID</string>
-		<key>uq_document_description_gha_dl</key>
-		<string>Driving License</string>
-		<key>uq_document_description_gha_voter_id</key>
-		<string>Voter ID</string>
-		<key>uq_document_description_gha_ssnit</key>
-		<string>SSNIT</string>
-		<key>uq_document_description_uga_id</key>
-		<string>Ugandan ID</string>
-		<key>uq_document_description_ind_id</key>
-		<string>Indian Aadhaar ID</string>
-		<key>uq_document_description_omn_id_national</key>
-		<string>Omani ID for Citizens</string>
-		<key>uq_document_description_omn_id_resident</key>
-		<string>Omani ID for Residents</string>
-		<key>uq_document_description_uga_voter_id</key>
-		<string>Uganda Voter ID</string>
-		<key>uq_document_description_sen_id</key>
-		<string>Senegal ID</string>
-		<key>uq_document_description_tur_id</key>
-		<string>Turkish ID</string>
-		<key>uq_document_description_dza_id</key>
-		<string>Algerian ID</string>
-		<key>uq_document_description_cod_dl</key>
-		<string>Driving License</string>
-		<key>uq_document_description_gbr_id</key>
-		<string>Resident ID</string>
-		<key>uq_document_description_omn_dl</key>
-		<string>Driving License</string>
-		<key>uq_document_description_omn_vl</key>
-		<string>Vehicle License</string>
-		<key>uq_document_description_cod_voter_id</key>
-		<string>Voter ID</string>
-		<key>uq_document_description_usa_dl</key>
-		<string>Driving License</string>
-		<key>uq_document_description_qat_dl</key>
-		<string>Driving License</string>
-		<key>uq_document_description_bhr_dl</key>
-		<string>Driving License</string>
-		<key>uq_document_description_phl_dl</key>
-		<string>Driving License</string>
-		<key>uq_document_description_rsl_id</key>
-		<string>National ID</string>
-		<key>uq_document_description_ind_pan</key>
-		<string>PAN card</string>
-		<key>uq_document_description_sau_id_national</key>
-		<string>Saudi ID for Citizens</string>
-		<key>uq_document_description_sau_id_resident</key>
-		<string>Saudi ID for Residents</string>
-		<key>uq_document_description_nga_bvn</key>
-		<string>Nigerian BVN</string>
-		<key>uq_document_description_lbn_id</key>
-		<string>Lebanese ID</string>
-		<key>uq_document_description_lbn_dl</key>
-		<string>Driving License</string>
-		<key>uq_document_description_mrz</key>
-		<string>MRZ</string>
-		<key>uq_document_description_irq_id</key>
-		<string>Iraqi ID</string>
-		<key>uq_document_description_uae_id_digital</key>
-		<string>Digital Emirates ID</string>
-	</dict>
-	<key>uq_button_title_text</key>
-	<dict>
-		<key>uq_button_title_retry</key>
-		<string>Try again</string>
-		<key>uq_button_title_cancel</key>
-		<string>Cancel</string>
-		<key>uq_button_title_ok</key>
-		<string>Ok</string>
-		<key>uq_button_title_continue</key>
-		<string>Continue</string>
-		<key>uq_button_title_confirm</key>
-		<string>Confirm</string>
-		<key>uq_button_title_check_input</key>
-		<string>Check Input</string>
-		<key>uq_button_title_scan</key>
-		<string>Start</string>
-		<key>uq_button_title_quit</key>
-		<string>Quit</string>
-		<key>uq_button_title_yes</key>
-		<string>Yes</string>
-		<key>uq_button_title_no</key>
-		<string>No</string>
-		<key>uq_button_title_help</key>
-		<string>Press here for help</string>
-		<key>uq_button_title_search_country</key>
-		<string>Search country</string>
-		<key>uq_button_title_nfc_read</key>
-		<string>Start</string>
-		<key>uq_button_title_decline</key>
-		<string>Decline</string>
-		<key>uq_button_title_consent</key>
-		<string>Consent</string>
-		<key>uq_button_title_imready</key>
-		<string>Let&apos;s start</string>
-		<key>uq_button_title_nfc_start</key>
-		<string>Initializing...</string>
-		<key>uq_button_title_nfc_wait</key>
-		<string>Waiting...</string>
-		<key>uq_button_title_submit</key>
-		<string>Submit</string>
-		<key>uq_button_title_resend</key>
-		<string>Resend</string>
-	</dict>
-	<key>uq_status_description_text</key>
-	<dict>
-		<key>uq_status_title_validate</key>
-		<string>Validating...</string>
-		<key>uq_status_title_close_session</key>
-		<string>Closing session...</string>
-		<key>uq_status_title_initialize</key>
-		<string>Initiating...</string>
-		<key>uq_status_title_updating</key>
-		<string>Updating...</string>
-		<key>uq_status_title_confirm_quit</key>
-		<string>Are you sure you want to quit the enrollment?</string>
-		<key>uq_status_title_hold_on</key>
-		<string>Please hold on, it can take up to 1 minute</string>
-	</dict>
-	<key>uq_error_description_text</key>
-	<dict>
-		<key>uq_error_network_unavailable</key>
-		<string>Internet not available, please make sure to have a valid connection before continuing</string>
-		<key>uq_error_reader_unavailable</key>
-		<string>Reader for requested type is not available</string>
-		<key>uq_error_rooted_device_found</key>
-		<string>Feature not supported on Rooted Device</string>
-		<key>uq_error_nfc_not_found</key>
-		<string>Requested feature not supported on device</string>
-		<key>uq_error_auth_token_missing</key>
-		<string>Authentication token missing</string>
-		<key>uq_error_document_missing</key>
-		<string>At least 1 document is required</string>
-		<key>uq_error_permission_denied</key>
-		<string>Permission request denied</string>
-		<key>uq_server_error_invalid_input</key>
-		<string>Missing required input or invalid format</string>
-		<key>uq_server_error_scan_document_not_recognized</key>
-		<string>Document type not recognized</string>
-		<key>uq_server_error_scan_document_expired</key>
-		<string>Document is expired</string>
-		<key>uq_server_error_scan_document_front_back_mismatch</key>
-		<string>Front and back page don&apos;t belong to the same document</string>
-		<key>uq_server_error_scan_document_edit_not_enabled</key>
-		<string>Manual editing of the scanned document is not enabled</string>
-		<key>uq_server_error_read_document_invalid_signature</key>
-		<string>Document invalid digital signature found</string>
-		<key>uq_server_error_read_document_expired</key>
-		<string>Document is expired</string>
-		<key>uq_server_error_face_liveness_retry</key>
-		<string>Liveness retry</string>
-		<key>uq_server_error_face_liveness_failed</key>
-		<string>Liveness failed</string>
-		<key>uq_server_error_face_no_match</key>
-		<string>Face doesn&apos;t match all the documents provided</string>
-		<key>uq_error_invalid_input</key>
-		<string>Missing required input or invalid format</string>
-		<key>uq_error_scanning_failed</key>
-		<string>Scanning failed</string>
-		<key>uq_error_reading_failed</key>
-		<string>Attention</string>
-		<key>uq_error_reading_chip_validation_failed</key>
-		<string>Chip validation failed</string>
-		<key>uq_server_error_read_document_validation_failed</key>
-		<string>Your document is not valid</string>
-		<key>uq_error_camera_permission_denied</key>
-		<string>Attention</string>
-		<key>uq_error_camera_permission_denied_description</key>
-		<string>You denied the camera access before and it is required to use this application. After you click the button below you will be taken to the application settings where you can allow the camera access. Please note that the application will restart after changing the setting.</string>
-	</dict>
-	<key>uq_error_status_description_text</key>
-	<dict>
-		<key>uq_error_status_internal_error</key>
-		<string>Something went wrong, please try again later</string>
-		<key>uq_error_status_forbidden</key>
-		<string>The requested feature is not available</string>
-		<key>uq_error_status_session_expired_or_not_found</key>
-		<string>Session expired or not found</string>
-		<key>uq_error_status_user_cancelled</key>
-		<string>User cancelled the process</string>
-		<key>uq_error_status_payload_too_large</key>
-		<string>The payload is too large</string>
-		<key>uq_error_status_unexpected_error</key>
-		<string>Something went wrong, please try again</string>
-		<key>uq_error_status_face_max_failed_attempt_reached</key>
-		<string>Session invalidated because of %@ facial recognition failure attempts</string>
-		<key>uq_error_status_reading_not_supported</key>
-		<string>Reading is not supported by the document</string>
-		<key>uq_error_status_session_invalidated_otp_too_many_attempts</key>
-		<string>Session invalidated because of too many OTP attempts</string>
-		<key>uq_error_status_request_timeout</key>
-		<string>Request timed out, please try again</string>
-		<key>uq_error_status_service_unavailable</key>
-		<string>Service not available at the moment, please try again later</string>
-	</dict>
-	<key>uq_scanner_module_text</key>
-	<dict>
-		<key>uq_scan_feedback_id</key>
-		<string>Please hold %@ on the front of camera</string>
-		<key>uq_scan_glare_detected</key>
-		<string>Glare detected, change lighting conditions</string>
-		<key>uq_scan_message</key>
-		<string>Fit %@ side to the frame</string>
-		<key>uq_scan_message_single_side</key>
-		<string>Fit data page to the frame</string>
-		<key>uq_scan_event_alert_title</key>
-		<string>HAVING TROUBLE SCANNING?</string>
-		<key>uq_scan_info_id</key>
-		<string>If there are glares or reflections scan in a different position. Ensure camera lens is clean.</string>
-		<key>uq_scan_turn_text</key>
-		<string>Turn document over</string>
-		<key>uq_scan_done_message_single_side</key>
-		<string>Scanning Completed</string>
-		<key>uq_scan_document_front</key>
-		<string>front</string>
-		<key>uq_scan_document_back</key>
-		<string>back</string>
-		<key>uq_scan_review</key>
-		<string>Scan Review</string>
-		<key>uq_scan_text_visible</key>
-		<string>Ensure all data is clearly readable</string>
-		<key>uq_scan_face_visible</key>
-		<string>Ensure your face is clearly visible\nand no hologram is covering it</string>
-		<key>uq_scan_rescan</key>
-		<string>Rescan</string>
-		<key>uq_scan_continue</key>
-		<string>Continue</string>
-		<key>uq_scan_face_detection_issue</key>
-		<string>Make sure the ID photo in the document is clear</string>
-		<key>uq_scan_wrong_document</key>
-		<string>Please provide the %@1 side of the %@2</string>
-		<key>uq_scan_blur_image_detected</key>
-		<string>Blurry image detected. Ensure clean lens and good lighting. Stay still while scanning</string>
-		<key>uq_scan_dark_image_detected</key>
-		<string>Low light conditions detected, please ensure good lighting while scanning</string>
-		<key>uq_scan_message_mrz</key>
-		<string>Fit the document side that contains the MRZ (Machine Readable Zone) to the frame</string>
-		<key>uq_scan_wrong_mrz</key>
-		<string>Please provide the document side that contains the MRZ (Machine Readable Zone)</string>
-		<key>uq_scan_document_move_closer</key>
-		<string>Please move the camera closer to the document</string>
-		<key>uq_scan_source_detection_failed</key>
-		<string>Please provide a physical document</string>
-		<key>uq_scan_id_photo_tampering_detected</key>
-		<string>An alteration of the ID photo has been detected. Tampering with the ID photo is strictly prohibited</string>
-	</dict>
-	<key>uq_scanner_module_upload_text</key>
-	<dict>
-		<key>uq_upload</key>
-		<string>Upload</string>
-		<key>uq_scan_upload_page_title</key>
-		<string>Upload %@</string>
-		<key>uq_scan_upload_select_file</key>
-		<string>Select File</string>
-		<key>uq_scan_upload_accepted_file_type</key>
-		<string>Accepted file type: PDF</string>
-		<key>uq_scan_upload_tip</key>
-		<string>For a two side document the first image in the PDF must be the front side and the second image the back side</string>
-		<key>uq_scan_upload_no_file_selected</key>
-		<string>No file selected</string>
-		<key>uq_scan_upload_max_file_size</key>
-		<string>Max file size allowed is 5MB</string>
-	</dict>
-	<key>uq_scanner_module_error_text</key>
-	<dict>
-		<key>uq_scan_error_scan_failed</key>
-		<string>We weren&apos;t able to scan the document, please try again</string>
-		<key>uq_scan_error_empty_value</key>
-		<string>Fields cannot be empty</string>
-		<key>uq_scan_error_wrong_country_code</key>
-		<string>Please check the country code</string>
-		<key>uq_scan_error_invalid_document_number</key>
-		<string>The document number is invalid</string>
-		<key>uq_scan_error_scan_api_error</key>
-		<string>Please scan again the document starting from the front page</string>
-		<key>uq_scan_error_failed</key>
-		<string>Scanning failed</string>
-		<key>uq_scan_error_expired</key>
-		<string>Please make sure to use a valid document</string>
-		<key>uq_scan_error_document_identify</key>
-		<string>Ensure:\n1. Good lighting conditions\n2. Camera lens is clean\n3. No reflections on document\n4. Remove any stickers on the document</string>
-		<key>uq_scan_error_upload_document_identify</key>
-		<string>Make sure that the PDF contains the requested document and it is clearly visible. For a two side document the front side must be the first picture, the back side the second picture</string>
-		<key>uq_scan_error_age_verification</key>
-		<string>Document not accepted, minimum age required %@</string>
-	</dict>
-	<key>uq_reading_module_text</key>
-	<dict>
-		<key>uq_reading_skip_nfc</key>
-		<string>Skip</string>
-		<key>uq_reading_skip</key>
-		<string>Skip</string>
-		<key>uq_reading_status_reading</key>
-		<string>Reading data</string>
-		<key>uq_reading_error_lost_communication</key>
-		<string>Unable to read the data, please hold the phone still</string>
-		<key>uq_read_uae_id_error_data_mismatch</key>
-		<string>Authentication error</string>
-		<key>uq_read_uae_id_reading</key>
-		<string>Don’t move document!</string>
-		<key>uq_read_uae_id_reading_completed</key>
-		<string>Scanning Completed</string>
-		<key>uq_read_uae_id_reading_failed</key>
-		<string>That was too short!\nHold the phone near ID for longer</string>
-		<key>uq_read_uae_id_info_hold_phone</key>
-		<string>Hold the phone near ID</string>
-		<key>uq_read_passport_error_data_mismatch</key>
-		<string>Authentication error</string>
-		<key>uq_read_passport_reading_data</key>
-		<string>Don’t move document!</string>
-		<key>uq_read_passport_reading_completed</key>
-		<string>Scanning Completed</string>
-		<key>uq_read_passport_reading_failed</key>
-		<string>That was too short!\nHold the phone near Passport for longer</string>
-		<key>uq_read_passport_info_hold_phone</key>
-		<string>Hold the phone near Passport</string>
-		<key>uq_reading_info_scanned_data_mismatch</key>
-		<string>Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
-		<key>uq_read_omn_id_error_data_mismatch</key>
-		<string>Authentication error</string>
-		<key>uq_read_omn_id_reading</key>
-		<string>Don’t move document!</string>
-		<key>uq_read_omn_id_reading_completed</key>
-		<string>Scanning Completed</string>
-		<key>uq_read_omn_id_reading_failed</key>
-		<string>That was too short!\nHold the phone near ID for longer</string>
-		<key>uq_read_omn_id_info_hold_phone</key>
-		<string>Hold the phone near ID</string>
-		<key>uq_read_nld_dl_error_data_mismatch</key>
-		<string>Authentication error</string>
-		<key>uq_read_nld_dl_reading</key>
-		<string>Don’t move document!</string>
-		<key>uq_read_nld_dl_reading_completed</key>
-		<string>Scanning Completed</string>
-		<key>uq_read_nld_dl_reading_failed</key>
-		<string>That was too short!\nHold the phone near ID for longer</string>
-		<key>uq_read_nld_dl_info_hold_phone</key>
-		<string>Hold the phone near driving license</string>
-		<key>uq_reading_more_than_one_tag_found</key>
-		<string>Make sure only a single document is near the phone</string>
-		<key>uq_read_bhr_id_error_data_mismatch</key>
-		<string>Authentication error</string>
-		<key>uq_read_bhr_id_reading</key>
-		<string>Don’t move document!</string>
-		<key>uq_read_bhr_id_reading_completed</key>
-		<string>Scanning Completed</string>
-		<key>uq_read_bhr_id_reading_failed</key>
-		<string>That was too short!\nHold the phone near ID for longer</string>
-		<key>uq_read_bhr_id_info_hold_phone</key>
-		<string>Hold the phone near ID</string>
-		<key>uq_read_nfc_session_unavailable</key>
-		<string>It seems that iOS NFC is not available at the moment, plese try again in a few seconds</string>
-		<key>uq_read_nfc_force_reading_timeout</key>
-		<string>Having trouble scanning the document? You can skip this step by pressing the skip button or retry pressing the retry button. You will be still able to skip the step through the &quot;skip&quot; button on the top right that is now visible</string>
-		<key>uq_read_nfc_window_timeout</key>
-		<string>Timeout expired</string>
-		<key>uq_read_qat_id_error_data_mismatch</key>
-		<string>Authentication error</string>
-		<key>uq_read_qat_id_reading</key>
-		<string>Don’t move document!</string>
-		<key>uq_read_qat_id_reading_completed</key>
-		<string>Scanning Completed</string>
-		<key>uq_read_qat_id_reading_failed</key>
-		<string>That was too short!\nHold the phone near ID for longer</string>
-		<key>uq_read_qat_id_info_hold_phone</key>
-		<string>Hold the phone near ID</string>
-		<key>uq_read_gha_id_error_data_mismatch</key>
-		<string>Authentication error</string>
-		<key>uq_read_gha_id_reading</key>
-		<string>Don’t move document!</string>
-		<key>uq_read_gha_id_reading_completed</key>
-		<string>Scanning Completed</string>
-		<key>uq_read_gha_id_reading_failed</key>
-		<string>That was too short!\nHold the phone near ID for longer</string>
-		<key>uq_read_gha_id_info_hold_phone</key>
-		<string>Hold the phone near ID</string>
-		<key>uq_read_sen_id_error_data_mismatch</key>
-		<string>Authentication error</string>
-		<key>uq_read_sen_id_reading</key>
-		<string>Don’t move document!</string>
-		<key>uq_read_sen_id_reading_completed</key>
-		<string>Scanning Completed</string>
-		<key>uq_read_sen_id_reading_failed</key>
-		<string>That was too short!\nHold the phone near ID for longer</string>
-		<key>uq_read_sen_id_info_hold_phone</key>
-		<string>Hold the phone near ID</string>
-		<key>uq_read_tur_id_error_data_mismatch</key>
-		<string>Authentication error</string>
-		<key>uq_read_tur_id_reading</key>
-		<string>Don’t move document!</string>
-		<key>uq_read_tur_id_reading_completed</key>
-		<string>Scanning Completed</string>
-		<key>uq_read_tur_id_reading_failed</key>
-		<string>That was too short!\nHold the phone near ID for longer</string>
-		<key>uq_read_tur_id_info_hold_phone</key>
-		<string>Hold the phone near ID</string>
-		<key>uq_read_dza_id_error_data_mismatch</key>
-		<string>Authentication error</string>
-		<key>uq_read_dza_id_reading</key>
-		<string>Don’t move document!</string>
-		<key>uq_read_dza_id_reading_completed</key>
-		<string>Scanning Completed</string>
-		<key>uq_read_dza_id_reading_failed</key>
-		<string>That was too short!\nHold the phone near ID for longer</string>
-		<key>uq_read_dza_id_info_hold_phone</key>
-		<string>Hold the phone near ID</string>
-		<key>uq_read_sau_id_error_data_mismatch</key>
-		<string>Authentication error</string>
-		<key>uq_read_sau_id_reading</key>
-		<string>Don’t move document!</string>
-		<key>uq_read_sau_id_reading_completed</key>
-		<string>Scanning Completed</string>
-		<key>uq_read_sau_id_reading_failed</key>
-		<string>That was too short!\nHold the phone near ID for longer</string>
-		<key>uq_read_sau_id_info_hold_phone</key>
-		<string>Hold the phone near ID</string>
-		<key>uq_read_irq_id_error_data_mismatch</key>
-		<string>Authentication error</string>
-		<key>uq_read_irq_id_reading</key>
-		<string>Don’t move document!</string>
-		<key>uq_read_irq_id_reading_completed</key>
-		<string>Scanning Completed</string>
-		<key>uq_read_irq_id_reading_failed</key>
-		<string>That was too short!\nHold the phone near ID for longer</string>
-		<key>uq_read_irq_id_info_hold_phone</key>
-		<string>Hold the phone near ID</string>
-	</dict>
-	<key>uq_face_recognition_module_text</key>
-	<dict>
-		<key>uq_face_title</key>
-		<string>Facial Verification</string>
-		<key>uq_face_position</key>
-		<string>Position head inside oval,\nthen start recording</string>
-		<key>uq_face_facial_recognition_find_face</key>
-		<string>Detecting face</string>
-		<key>uq_face_facial_recognition_warning_face_detection</key>
-		<string>No face detected</string>
-		<key>uq_face_dialog_face_not_match</key>
-		<string>Your face didn&apos;t match</string>
-		<key>uq_face_hints</key>
-		<string>Here are some hints:\n1. Fit face inside the oval\n2. Look straight to the camera\n3. Do not move the device</string>
-		<key>uq_face_too_dark</key>
-		<string>Too dark!</string>
-		<key>uq_face_too_light</key>
-		<string>Too light!</string>
-		<key>uq_face_too_close</key>
-		<string>Too close!</string>
-		<key>uq_face_too_far</key>
-		<string>Too far away!</string>
-		<key>uq_face_perfect</key>
-		<string>Perfect!</string>
-		<key>uq_face_facial_recognition_face_too_far</key>
-		<string>Move closer to the oval</string>
-		<key>uq_face_facial_recognition_face_too_close</key>
-		<string>Move further from the oval</string>
-		<key>uq_face_facial_recognition_not_centered</key>
-		<string>Center your face in the oval</string>
-		<key>uq_face_facial_recognition_face_too_light</key>
-		<string>Change lighting conditions to avoid strong light reflections on your face</string>
-		<key>uq_face_facial_recognition_background_too_dark</key>
-		<string>Make sure your environment is not too dark</string>
-		<key>uq_face_facial_recognition_face_eyes_too_dark</key>
-		<string>Change lighting conditions to avoid the shadow effect on your face</string>
-		<key>uq_face_facial_recognition_too_many_faces_found</key>
-		<string>Too many faces detected</string>
-		<key>uq_face_facial_recognition_hold_position</key>
-		<string>Hold this position!</string>
-		<key>uq_face_facial_recognition_face_bad_quality_blurred</key>
-		<string>Ensure good lighting conditions to capture a good quality selfie</string>
-		<key>uq_face_facial_recognition_face_bad_quality_noise</key>
-		<string>Ensure good lighting conditions to capture a good quality selfie</string>
-		<key>uq_face_facial_recognition_face_bad_quality_hazed</key>
-		<string>Ensure good lighting conditions and check your front camera lens cleanliness</string>
-		<key>uq_face_facial_recognition_face_bad_quality</key>
-		<string>Ensure good lighting conditions to capture a good quality selfie</string>
-		<key>uq_face_facial_recognition_face_no_mouth_detected</key>
-		<string>Remove anything that covers your face, e.g. mask</string>
-		<key>uq_face_facial_recognition_face_no_eyes_detected</key>
-		<string>Remove anything that can cover your eyes, e.g. sun glasses</string>
-		<key>uq_face_facial_recognition_no_look</key>
-		<string>Look straight to the camera</string>
-		<key>uq_face_facial_recognition_face_tilt_left</key>
-		<string>Tilt your face left</string>
-		<key>uq_face_facial_recognition_face_tilt_right</key>
-		<string>Tilt your face right</string>
-	</dict>
-	<key>uq_background_check_module_text</key>
-	<dict>
-		<key>uq_bg_check_background_check</key>
-		<string>Background Check</string>
-		<key>uq_bg_check_background_check_description</key>
-		<string>TBD: A text that explains what is a background check and what are the checks that will be performed.</string>
-		<key>uq_bg_check_sending_status</key>
-		<string>Processing...</string>
-		<key>uq_bg_check_error_decline</key>
-		<string>Are you sure you want to decline?</string>
-		<key>uq_bg_check_error_exit</key>
-		<string>Are you sure you want to exit the enrollment process?</string>
-	</dict>
-	<key>uq_lookup_flow_module_text</key>
-	<dict>
-		<key>uq_lookup_gha_voter_id_placeholder_text_voter_id</key>
-		<string>Enter your voter ID</string>
-		<key>uq_lookup_gha_voter_id_feedback_text_voter_id</key>
-		<string>Please enter your voter ID</string>
-		<key>uq_lookup_gha_voter_id_placeholder_text_full_name</key>
-		<string>Enter your full name</string>
-		<key>uq_lookup_gha_voter_id_feedback_text_full_name</key>
-		<string>Please enter your full name</string>
-		<key>uq_lookup_gha_ssni_placeholder_text_socials_security_number</key>
-		<string>Enter your social security number</string>
-		<key>uq_lookup_gha_ssni_feedback_text_social_security_number</key>
-		<string>Please enter your social security number</string>
-		<key>uq_lookup_gha_ssni_placeholder_text_full_name</key>
-		<string>Enter your full name</string>
-		<key>uq_lookup_gha_ssni_feedback_text_full_name</key>
-		<string>Please enter your full name</string>
-		<key>uq_lookup_gha_ssni_placeholder_text_date_of_birth</key>
-		<string>Select your date of birth</string>
-		<key>uq_lookup_gha_ssni_feedback_text_date_of_birth</key>
-		<string>Please select your date of birth</string>
-		<key>uq_lookup_gha_dl_placeholder_text_license_number</key>
-		<string>Eour your driving license number</string>
-		<key>uq_lookup_gha_dl_feedback_text_license_number</key>
-		<string>Please enter your driving license number</string>
-		<key>uq_lookup_gha_dl_placeholder_text_full_name</key>
-		<string>Enter your full name</string>
-		<key>uq_lookup_gha_dl_feedback_text_full_name</key>
-		<string>Please enter your full name</string>
-		<key>uq_lookup_gha_dl_placeholder_text_date_of_birth</key>
-		<string>Select your date of birth</string>
-		<key>uq_lookup_gha_dl_feedback_text_date_of_birth</key>
-		<string>Please select your date of birth</string>
-		<key>uq_lookup_ind_id_placeholder_document_number</key>
-		<string>Enter your Aadhaar number</string>
-		<key>uq_lookup_ind_id_feedback_text_document_number</key>
-		<string>Please enter your Aadhaar number</string>
-		<key>uq_lookup_ind_id_subtitle_text_otp</key>
-		<string>Enter OTP code received on your mobile number</string>
-		<key>uq_lookup_ind_id_feedback_text_otp</key>
-		<string>Please enter your OTP code</string>
-		<key>uq_lookup_ind_id_feedback_text_time_remaining</key>
-		<string>Time Remaining: %@</string>
-		<key>uq_lookup_ind_id_feedback_text_time_expired</key>
-		<string>OTP expired</string>
-		<key>uq_lookup_ind_pan_placeholder_text_document_number</key>
-		<string>Enter your PAN number</string>
-		<key>uq_lookup_ind_pan_feedback_text_document_number</key>
-		<string>Please enter your PAN document number</string>
-		<key>uq_lookup_ken_id_placeholder_identity_number</key>
-		<string>Enter your ID number</string>
-		<key>uq_lookup_ken_id_feedback_text_identity_number</key>
-		<string>Please enter your ID number</string>
-		<key>uq_lookup_ken_id_placeholder_text_first_name</key>
-		<string>Enter your first name</string>
-		<key>uq_lookup_ken_id_feedback_text_first_name</key>
-		<string>Please enter your first name</string>
-		<key>uq_lookup_ken_id_placeholder_text_last_name</key>
-		<string>Enter your last name</string>
-		<key>uq_lookup_ken_id_feedback_text_last_name</key>
-		<string>Please enter your last name</string>
-		<key>uq_lookup_ken_id_placeholder_text_date_of_birth</key>
-		<string>Select your date of birth</string>
-		<key>uq_lookup_ken_id_feedback_text_date_of_birth</key>
-		<string>Please select your date of birth</string>
-		<key>uq_lookup_ken_id_placeholder_text_gender</key>
-		<string>Select your gender</string>
-		<key>uq_lookup_ken_id_feedback_text_gender</key>
-		<string>Please select your gender</string>
-		<key>uq_lookup_nga_voter_id_placeholder_text_identity_number</key>
-		<string>Enter your identity number</string>
-		<key>uq_lookup_nga_voter_id_feedback_text_identity_number</key>
-		<string>Please enter your identity number</string>
-		<key>uq_lookup_nga_voter_id_placeholder_text_date_of_birth</key>
-		<string>Select your date of birth</string>
-		<key>uq_lookup_nga_voter_id_feedback_text_date_of_birth</key>
-		<string>Please select your date of birth</string>
-		<key>uq_lookup_nga_voter_id_placeholder_text_first_name</key>
-		<string>Enter your first name</string>
-		<key>uq_lookup_nga_voter_id_feedback_text_first_name</key>
-		<string>Please enter your first name</string>
-		<key>uq_lookup_nga_voter_id_placeholder_text_last_name</key>
-		<string>Enter your last name</string>
-		<key>uq_lookup_nga_voter_id_feedback_text_last_name</key>
-		<string>Please enter your last name</string>
-		<key>uq_lookup_nga_nin_placeholder_text_nin</key>
-		<string>Enter your NIN</string>
-		<key>uq_lookup_nga_nin_feedback_text_nin</key>
-		<string>Please enter your 11 numbers NIN</string>
-		<key>uq_lookup_nga_nin_placeholder_text_first_name</key>
-		<string>Enter your first name</string>
-		<key>uq_lookup_nga_nin_feedback_text_first_name</key>
-		<string>Please enter your first name</string>
-		<key>uq_lookup_nga_nin_placeholder_text_last_name</key>
-		<string>Enter your last name</string>
-		<key>uq_lookup_nga_nin_feedback_text_last_name</key>
-		<string>Please enter your last name</string>
-		<key>uq_lookup_nga_dl_placeholder_text_license_number</key>
-		<string>Enter your license number</string>
-		<key>uq_lookup_nga_dl_feedback_text_license_number</key>
-		<string>Please enter your license number</string>
-		<key>uq_lookup_nga_dl_placeholder_text_date_of_birth</key>
-		<string>Select your date of birth</string>
-		<key>uq_lookup_nga_dl_feedback_text_date_of_birth</key>
-		<string>Please select your date of birth</string>
-		<key>uq_lookup_nga_bvn_placeholder_text_bvn</key>
-		<string>Enter your BVN number</string>
-		<key>uq_lookup_nga_bvn_feedback_text_bvn</key>
-		<string>Please enter your BVN number</string>
-		<key>uq_lookup_nga_bvn_placeholder_text_first_name</key>
-		<string>Enter your first name</string>
-		<key>uq_lookup_nga_bvn_feedback_text_first_name</key>
-		<string>Please enter your first name</string>
-		<key>uq_lookup_nga_bvn_placeholder_text_last_name</key>
-		<string>Enter your last name</string>
-		<key>uq_lookup_nga_bvn_feedback_text_last_name</key>
-		<string>Please enter your last name</string>
-		<key>uq_lookup_zaf_id_placeholder_text_identity_number</key>
-		<string>Enter your identity number</string>
-		<key>uq_lookup_zaf_id_feedback_text_identity_number</key>
-		<string>Please enter your identiry number</string>
-		<key>uq_lookup_uga_voter_id_placeholder_text_document_number</key>
-		<string>Enter your voter ID</string>
-		<key>uq_lookup_uga_voter_id_feedback_text_document_number</key>
-		<string>Please enter your voter ID</string>
-		<key>uq_lookup_uga_voter_id_id_placeholder_text_first_name</key>
-		<string>Enter your first name</string>
-		<key>uq_lookup_uga_voter_id_id_feedback_text_first_name</key>
-		<string>Please enter your first name</string>
-		<key>uq_lookup_uga_voter_id_placeholder_text_last_name</key>
-		<string>Enter your last name</string>
-		<key>uq_lookup_uga_voter_id_feedback_text_last_name</key>
-		<string>Please enter your last name</string>
-		<key>uq_lookup_text_gender_male</key>
-		<string>Male</string>
-		<key>uq_lookup_text_gener_female</key>
-		<string>Female</string>
-		<key>uq_lookup_date_format_text</key>
-		<string>dd/MM/yyyy</string>
-		<key>uq_lookup_otp_title_text</key>
-		<string>Verify OTP</string>
-		<key>uq_lookup_error_invalid_input</key>
-		<string>We didn&apos;t find any document, please check that the values in the form are correct</string>
-		<key>uq_lookup_error_id_not_found</key>
-		<string>Identity number not found, please check the value you input in the form</string>
-		<key>uq_lookup_error_invalid_otp</key>
-		<string>Invalid OTP number, please check and try again</string>
-		<key>uq_lookup_error_request_timeout</key>
-		<string>Request timed out, please try again</string>
-		<key>uq_lookup_feedback_expired_otp</key>
-		<string>OTP is expired, please click the resend button to receive a new OTP code</string>
-	</dict>
-</dict>
+    <dict>
+        <key>uq_help_page_text</key>
+        <dict>
+            <key>uq_scan_help_page_title</key>
+            <string>مسح %@</string>
+            <key>uq_scan_help_page_description</key>
+            <string>ضع %@ داخل الإطار</string>
+            <key>uq_read_id_help_page_title</key>
+            <string>مسح الشريحة اللاسلكية</string>
+            <key>uq_read_id_help_page_description</key>
+            <string>ضع الكاميرا الخلفية على بطاقة الهوية لمدة\n10 ثواني</string>
+            <key>uq_read_passport_help_page_title</key>
+            <string>مسح الشريحة اللاسلكية</string>
+            <key>uq_read_passport_help_page_description</key>
+            <string>ضع الكاميرا الخلفية على جواز السفر لمدة\n10 ثواني</string>
+            <key>uq_read_passport_help_page_description1</key>
+            <string>قم بإزالة الغطاء من الهاتف وجواز السفر</string>
+            <key>uq_read_passport_help_page_description2</key>
+            <string>امسك الصفحة الأمامية من جواز السفر بالقرب من الهاتف.</string>
+            <key>uq_read_passport_help_page_description3</key>
+            <string>إذا لم تنجح الخطوة السابقة، جرب فتح صفحة البيانات بجواز السفر وامسكها بالقرب من الهاتف.</string>
+            <key>uq_read_passport_help_page_description4</key>
+            <string>إذا لم تنجح الخطوة السابقة، جرب فتح الصفحة الخلفية لجواز السفر وامسكها بالقرب من الهاتف.</string>
+            <key>uq_read_passport_help_page_number</key>
+            <string>الصفحة %@1 - %@2</string>
+        </dict>
+        <key>uq_document_description_text</key>
+        <dict>
+            <key>uq_document_description_uae_id</key>
+            <string>هوية الإمارات</string>
+            <key>uq_document_description_uae_dl</key>
+            <string>رخصة القيادة</string>
+            <key>uq_document_description_uae_vl</key>
+            <string>رخصة المركبة</string>
+            <key>uq_document_description_omn_id</key>
+            <string>هوية عمان</string>
+            <key>uq_document_description_passport</key>
+            <string>جواز السفر</string>
+            <key>uq_document_description_pak_id</key>
+            <string>هوية باكستان</string>
+            <key>uq_document_description_sau_id</key>
+            <string>هوية السعودية الوطنية</string>
+            <key>uq_document_description_bhr_id</key>
+            <string>هوية البحرين</string>
+            <key>uq_document_description_kwt_id</key>
+            <string>هوية الكويت</string>
+            <key>uq_document_description_generic_id</key>
+            <string>الهوية الوطنية</string>
+            <key>uq_document_description_uae_visa</key>
+            <string>تأشيرة الإمارات</string>
+            <key>uq_document_description_qat_id</key>
+            <string>هوية قطر</string>
+            <key>uq_document_description_nld_dl</key>
+            <string>رخصة القيادة</string>
+            <key>uq_document_description_deu_id</key>
+            <string>هوية ألمانيا</string>
+            <key>uq_document_description_sdn_id</key>
+            <string>هوية السودان</string>
+            <key>uq_document_description_sdn_dl</key>
+            <string>رخصة القيادة</string>
+            <key>uq_document_description_sdn_vl</key>
+            <string>رخصة المركبة</string>
+            <key>uq_document_description_gha_id</key>
+            <string>هوية غانا</string>
+            <key>uq_document_description_nga_dl</key>
+            <string>رخصة القيادة</string>
+            <key>uq_document_description_nga_voter_id</key>
+            <string>هوية الناخب</string>
+            <key>uq_document_description_nga_nin</key>
+            <string>الهوية الوطنية النيجيرية (NIN)</string>
+            <key>uq_document_description_sau_dl</key>
+            <string>رخصة القيادة</string>
+            <key>uq_document_description_gbr_dl</key>
+            <string>رخصة القيادة</string>
+            <key>uq_document_description_zaf_id</key>
+            <string>هوية جنوب أفريقيا</string>
+            <key>uq_document_description_zaf_dl</key>
+            <string>رخصة القيادة</string>
+            <key>uq_document_description_egy_id</key>
+            <string>هوية مصر</string>
+            <key>uq_document_description_rwa_id</key>
+            <string>هوية رواندا</string>
+            <key>uq_document_description_ken_id</key>
+            <string>هوية كينيا</string>
+            <key>uq_document_description_gha_dl</key>
+            <string>رخصة القيادة</string>
+            <key>uq_document_description_gha_voter_id</key>
+            <string>هوية الناخب</string>
+            <key>uq_document_description_gha_ssnit</key>
+            <string>رقم الضمان الاجتماعي</string>
+            <key>uq_document_description_uga_id</key>
+            <string>هوية أوغندا</string>
+            <key>uq_document_description_ind_id</key>
+            <string>هوية آداهار الهندية</string>
+            <key>uq_document_description_omn_id_national</key>
+            <string>هوية عمان للمواطنين</string>
+            <key>uq_document_description_omn_id_resident</key>
+            <string>هوية عمان للمقيمين</string>
+            <key>uq_document_description_uga_voter_id</key>
+            <string>هوية الناخب الأوغندي</string>
+            <key>uq_document_description_sen_id</key>
+            <string>هوية السنغال</string>
+            <key>uq_document_description_tur_id</key>
+            <string>هوية تركيا</string>
+            <key>uq_document_description_dza_id</key>
+            <string>هوية الجزائر</string>
+            <key>uq_document_description_cod_dl</key>
+            <string>رخصة القيادة</string>
+            <key>uq_document_description_gbr_id</key>
+            <string>هوية الإقامة</string>
+            <key>uq_document_description_omn_dl</key>
+            <string>رخصة القيادة</string>
+            <key>uq_document_description_omn_vl</key>
+            <string>رخصة المركبة</string>
+            <key>uq_document_description_cod_voter_id</key>
+            <string>هوية الناخب</string>
+            <key>uq_document_description_usa_dl</key>
+            <string>رخصة القيادة</string>
+            <key>uq_document_description_qat_dl</key>
+            <string>رخصة القيادة</string>
+            <key>uq_document_description_bhr_dl</key>
+            <string>رخصة القيادة</string>
+            <key>uq_document_description_phl_dl</key>
+            <string>رخصة القيادة</string>
+            <key>uq_document_description_rsl_id</key>
+            <string>الهوية الوطنية</string>
+            <key>uq_document_description_ind_pan</key>
+            <string>بطاقة PAN</string>
+            <key>uq_document_description_sau_id_national</key>
+            <string>هوية السعودية للمواطنين</string>
+            <key>uq_document_description_sau_id_resident</key>
+            <string>هوية السعودية للمقيمين</string>
+            <key>uq_document_description_nga_bvn</key>
+            <string>الرقم المصرفي النيجيري</string>
+            <key>uq_document_description_lbn_id</key>
+            <string>هوية لبنان</string>
+            <key>uq_document_description_lbn_dl</key>
+            <string>رخصة القيادة</string>
+            <key>uq_document_description_mrz</key>
+            <string>المنطقة المقروءة آليًا (MRZ)</string>
+            <key>uq_document_description_irq_id</key>
+            <string>هوية العراق</string>
+            <key>uq_document_description_uae_id_digital</key>
+            <string>هوية الإمارات الرقمية</string>
+        </dict>
+        <key>uq_button_title_text</key>
+        <dict>
+            <key>uq_button_title_retry</key>
+            <string>حاول مرة أخرى</string>
+            <key>uq_button_title_cancel</key>
+            <string>إلغاء</string>
+            <key>uq_button_title_ok</key>
+            <string>موافق</string>
+            <key>uq_button_title_continue</key>
+            <string>استمر</string>
+            <key>uq_button_title_confirm</key>
+            <string>تأكيد</string>
+            <key>uq_button_title_check_input</key>
+            <string>تحقق من الإدخال</string>
+            <key>uq_button_title_scan</key>
+            <string>بدء</string>
+            <key>uq_button_title_quit</key>
+            <string>خروج</string>
+            <key>uq_button_title_yes</key>
+            <string>نعم</string>
+            <key>uq_button_title_no</key>
+            <string>لا</string>
+            <key>uq_button_title_help</key>
+            <string>اضغط هنا للمساعدة</string>
+            <key>uq_button_title_search_country</key>
+            <string>ابحث عن الدولة</string>
+            <key>uq_button_title_nfc_read</key>
+            <string>بدء</string>
+            <key>uq_button_title_decline</key>
+            <string>رفض</string>
+            <key>uq_button_title_consent</key>
+            <string>موافقة</string>
+            <key>uq_button_title_imready</key>
+            <string>لنبدأ</string>
+            <key>uq_button_title_nfc_start</key>
+            <string>جاري التهيئة...</string>
+            <key>uq_button_title_nfc_wait</key>
+            <string>انتظر...</string>
+            <key>uq_button_title_submit</key>
+            <string>إرسال</string>
+            <key>uq_button_title_resend</key>
+            <string>إعادة إرسال</string>
+        </dict>
+        <key>uq_status_description_text</key>
+        <dict>
+            <key>uq_status_title_validate</key>
+            <string>جارٍ التحقق...</string>
+            <key>uq_status_title_close_session</key>
+            <string>إغلاق الجلسة...</string>
+            <key>uq_status_title_initialize</key>
+            <string>جاري التهيئة...</string>
+            <key>uq_status_title_updating</key>
+            <string>جارٍ التحديث...</string>
+            <key>uq_status_title_confirm_quit</key>
+            <string>هل أنت متأكد أنك تريد إنهاء التسجيل؟</string>
+            <key>uq_status_title_hold_on</key>
+            <string>يرجى الانتظار، قد يستغرق ما يصل إلى دقيقة واحدة</string>
+        </dict>
+        <key>uq_error_description_text</key>
+        <dict>
+            <key>uq_error_network_unavailable</key>
+            <string>الإنترنت غير متاح، يرجى التأكد من وجود اتصال صالح قبل المتابعة</string>
+            <key>uq_error_reader_unavailable</key>
+            <string>القارئ المطلوب غير متاح</string>
+            <key>uq_error_rooted_device_found</key>
+            <string>الميزة غير مدعومة على جهاز مروت</string>
+            <key>uq_error_nfc_not_found</key>
+            <string>الميزة المطلوبة غير مدعومة على الجهاز</string>
+            <key>uq_error_auth_token_missing</key>
+            <string>رمز المصادقة مفقود</string>
+            <key>uq_error_document_missing</key>
+            <string>مطلوب وثيقة واحدة على الأقل</string>
+            <key>uq_error_permission_denied</key>
+            <string>تم رفض طلب الإذن</string>
+            <key>uq_server_error_invalid_input</key>
+            <string>مطلوب إدخال أو تنسيق غير صالح</string>
+            <key>uq_server_error_scan_document_not_recognized</key>
+            <string>نوع الوثيقة غير معترف به</string>
+            <key>uq_server_error_scan_document_expired</key>
+            <string>الوثيقة منتهية الصلاحية</string>
+            <key>uq_server_error_scan_document_front_back_mismatch</key>
+            <string>الصفحة الأمامية والخلفية لا تنتمي إلى نفس الوثيقة</string>
+            <key>uq_server_error_scan_document_edit_not_enabled</key>
+            <string>التحرير اليدوي للوثيقة الممسوحة ضوئيًا غير ممكن</string>
+            <key>uq_server_error_read_document_invalid_signature</key>
+            <string>تم العثور على توقيع رقمي غير صالح للوثيقة</string>
+            <key>uq_server_error_read_document_expired</key>
+            <string>الوثيقة منتهية الصلاحية</string>
+            <key>uq_server_error_face_liveness_retry</key>
+            <string>إعادة المحاولة</string>
+            <key>uq_server_error_face_liveness_failed</key>
+            <string>فشل التعرف على الحيوية</string>
+            <key>uq_server_error_face_no_match</key>
+            <string>الوجه لا يتطابق مع جميع الوثائق المقدمة</string>
+            <key>uq_error_invalid_input</key>
+            <string>مطلوب إدخال أو تنسيق غير صالح</string>
+            <key>uq_error_scanning_failed</key>
+            <string>فشل المسح الضوئي</string>
+            <key>uq_error_reading_failed</key>
+            <string>تحذير</string>
+            <key>uq_error_reading_chip_validation_failed</key>
+            <string>فشل التحقق من الشريحة</string>
+            <key>uq_server_error_read_document_validation_failed</key>
+            <string>الوثيقة غير صالحة</string>
+            <key>uq_error_camera_permission_denied</key>
+            <string>تحذير</string>
+            <key>uq_error_camera_permission_denied_description</key>
+            <string>لقد رفضت الوصول إلى الكاميرا مسبقًا وهو مطلوب لاستخدام هذا التطبيق. بعد النقر على الزر أدناه، سيتم نقلك إلى إعدادات التطبيق حيث يمكنك السماح بالوصول إلى الكاميرا. يرجى ملاحظة أنه سيتم إعادة تشغيل التطبيق بعد تغيير الإعداد.</string>
+        </dict>
+        <key>uq_error_status_description_text</key>
+        <dict>
+            <key>uq_error_status_internal_error</key>
+            <string>حدث خطأ ما، يرجى المحاولة مرة أخرى لاحقًا</string>
+            <key>uq_error_status_forbidden</key>
+            <string>الميزة المطلوبة غير متاحة</string>
+            <key>uq_error_status_session_expired_or_not_found</key>
+            <string>انتهت الجلسة أو لم يتم العثور عليها</string>
+            <key>uq_error_status_user_cancelled</key>
+            <string>المستخدم ألغى العملية</string>
+            <key>uq_error_status_payload_too_large</key>
+            <string>البيانات المطلوبة كبيرة جدًا</string>
+            <key>uq_error_status_unexpected_error</key>
+            <string>حدث خطأ غير متوقع، يرجى المحاولة مرة أخرى</string>
+            <key>uq_error_status_face_max_failed_attempt_reached</key>
+            <string>تم إلغاء الجلسة بسبب %@ محاولات فاشلة للتعرف على الوجه</string>
+            <key>uq_error_status_reading_not_supported</key>
+            <string>القراءة غير مدعومة بواسطة الوثيقة</string>
+            <key>uq_error_status_session_invalidated_otp_too_many_attempts</key>
+            <string>تم إلغاء الجلسة بسبب محاولات متعددة لإدخال OTP</string>
+            <key>uq_error_status_request_timeout</key>
+            <string>انتهت مهلة الطلب، يرجى المحاولة مرة أخرى</string>
+            <key>uq_error_status_service_unavailable</key>
+            <string>الخدمة غير متاحة حاليًا، يرجى المحاولة مرة أخرى لاحقًا</string>
+        </dict>
+        <key>uq_scanner_module_text</key>
+        <dict>
+            <key>uq_scan_feedback_id</key>
+            <string>يرجى وضع %@ أمام الكاميرا</string>
+            <key>uq_scan_glare_detected</key>
+            <string>تم الكشف عن وهج، قم بتغيير ظروف الإضاءة</string>
+            <key>uq_scan_message</key>
+            <string>ضع %@ الجانب داخل الإطار</string>
+            <key>uq_scan_message_single_side</key>
+            <string>ضع صفحة البيانات داخل الإطار</string>
+            <key>uq_scan_event_alert_title</key>
+            <string>هل تواجه مشكلة في المسح؟</string>
+            <key>uq_scan_info_id</key>
+            <string>إذا كان هناك وهج أو انعكاسات، قم بالمسح من زاوية مختلفة. تأكد من نظافة عدسة الكاميرا.</string>
+            <key>uq_scan_turn_text</key>
+            <string>اقلب الوثيقة</string>
+            <key>uq_scan_done_message_single_side</key>
+            <string>تم إكمال المسح</string>
+            <key>uq_scan_document_front</key>
+            <string>أمامي</string>
+            <key>uq_scan_document_back</key>
+            <string>خلفي</string>
+            <key>uq_scan_review</key>
+            <string>مراجعة المسح</string>
+            <key>uq_scan_text_visible</key>
+            <string>تأكد من أن جميع البيانات مقروءة بوضوح</string>
+            <key>uq_scan_face_visible</key>
+            <string>تأكد من أن وجهك مرئي بوضوح ولا يغطيه أي هولوغرام</string>
+            <key>uq_scan_rescan</key>
+            <string>إعادة المسح</string>
+            <key>uq_scan_continue</key>
+            <string>استمرار</string>
+            <key>uq_scan_face_detection_issue</key>
+            <string>تأكد من أن صورة الهوية في الوثيقة واضحة</string>
+            <key>uq_scan_wrong_document</key>
+            <string>يرجى تقديم %@1 جانب %@2</string>
+            <key>uq_scan_blur_image_detected</key>
+            <string>تم اكتشاف صورة ضبابية. تأكد من نظافة العدسة والإضاءة الجيدة. ابق ثابتًا أثناء المسح</string>
+            <key>uq_scan_dark_image_detected</key>
+            <string>تم اكتشاف ظروف إضاءة منخفضة، يرجى التأكد من الإضاءة الجيدة أثناء المسح</string>
+            <key>uq_scan_message_mrz</key>
+            <string>ضع الجانب الذي يحتوي على المنطقة المقروءة آليًا (MRZ) داخل الإطار</string>
+            <key>uq_scan_wrong_mrz</key>
+            <string>يرجى تقديم الجانب الذي يحتوي على المنطقة المقروءة آليًا (MRZ)</string>
+            <key>uq_scan_document_move_closer</key>
+            <string>يرجى تقريب الكاميرا إلى الوثيقة</string>
+            <key>uq_scan_source_detection_failed</key>
+            <string>يرجى تقديم وثيقة مادية</string>
+            <key>uq_scan_id_photo_tampering_detected</key>
+            <string>تم اكتشاف تلاعب في صورة الهوية. التلاعب بصورة الهوية ممنوع تمامًا</string>
+        </dict>
+        <key>uq_scanner_module_upload_text</key>
+        <dict>
+            <key>uq_upload</key>
+            <string>تحميل</string>
+            <key>uq_scan_upload_page_title</key>
+            <string>تحميل %@</string>
+            <key>uq_scan_upload_select_file</key>
+            <string>اختر ملف</string>
+            <key>uq_scan_upload_accepted_file_type</key>
+            <string>نوع الملف المقبول: PDF</string>
+            <key>uq_scan_upload_tip</key>
+            <string>بالنسبة للوثيقة التي تحتوي على جانبين، يجب أن تكون الصورة الأولى في ملف PDF هي الجانب الأمامي والصورة الثانية هي الجانب الخلفي</string>
+            <key>uq_scan_upload_no_file_selected</key>
+            <string>لم يتم اختيار أي ملف</string>
+            <key>uq_scan_upload_max_file_size</key>
+            <string>الحد الأقصى لحجم الملف المسموح به هو 5 ميجابايت</string>
+        </dict>
+        <key>uq_scanner_module_error_text</key>
+        <dict>
+            <key>uq_scan_error_scan_failed</key>
+            <string>لم نتمكن من مسح الوثيقة، يرجى المحاولة مرة أخرى</string>
+            <key>uq_scan_error_empty_value</key>
+            <string>لا يمكن ترك الحقول فارغة</string>
+            <key>uq_scan_error_wrong_country_code</key>
+            <string>يرجى التحقق من رمز البلد</string>
+            <key>uq_scan_error_invalid_document_number</key>
+            <string>رقم الوثيقة غير صالح</string>
+            <key>uq_scan_error_scan_api_error</key>
+            <string>يرجى إعادة مسح الوثيقة مرة أخرى بدءًا من الصفحة الأمامية</string>
+            <key>uq_scan_error_failed</key>
+            <string>فشل المسح</string>
+            <key>uq_scan_error_expired</key>
+            <string>يرجى التأكد من استخدام وثيقة صالحة</string>
+            <key>uq_scan_error_document_identify</key>
+            <string>تأكد من:\n1. ظروف الإضاءة الجيدة\n2. نظافة عدسة الكاميرا\n3. عدم وجود انعكاسات على الوثيقة\n4. إزالة أي ملصقات على الوثيقة</string>
+            <key>uq_scan_error_upload_document_identify</key>
+            <string>تأكد من أن ملف PDF يحتوي على الوثيقة المطلوبة وأنها واضحة. بالنسبة للوثيقة ذات الجانبين، يجب أن يكون الجانب الأمامي هو الصورة الأولى والجانب الخلفي هو الصورة الثانية</string>
+            <key>uq_scan_error_age_verification</key>
+            <string>الوثيقة غير مقبولة، الحد الأدنى للسن المطلوب هو %@</string>
+        </dict>
+        <key>uq_reading_module_text</key>
+        <dict>
+            <key>uq_reading_skip_nfc</key>
+            <string>تخطي</string>
+            <key>uq_reading_skip</key>
+            <string>تخطي</string>
+            <key>uq_reading_status_reading</key>
+            <string>جاري قراءة البيانات</string>
+            <key>uq_reading_error_lost_communication</key>
+            <string>غير قادر على قراءة البيانات، يرجى إبقاء الهاتف ثابتًا</string>
+            <key>uq_read_uae_id_error_data_mismatch</key>
+            <string>خطأ في المصادقة</string>
+            <key>uq_read_uae_id_reading</key>
+            <string>لا تحرك الوثيقة!</string>
+            <key>uq_read_uae_id_reading_completed</key>
+            <string>تم اكتمال المسح</string>
+            <key>uq_read_uae_id_reading_failed</key>
+            <string>كان ذلك قصيرًا جدًا!\nامسك الهاتف بالقرب من الهوية لفترة أطول</string>
+            <key>uq_read_uae_id_info_hold_phone</key>
+            <string>امسك الهاتف بالقرب من الهوية</string>
+            <key>uq_read_passport_error_data_mismatch</key>
+            <string>خطأ في المصادقة</string>
+            <key>uq_read_passport_reading_data</key>
+            <string>لا تحرك الوثيقة!</string>
+            <key>uq_read_passport_reading_completed</key>
+            <string>تم اكتمال المسح</string>
+            <key>uq_read_passport_reading_failed</key>
+            <string>كان ذلك قصيرًا جدًا!\nامسك الهاتف بالقرب من جواز السفر لفترة أطول</string>
+            <key>uq_read_passport_info_hold_phone</key>
+            <string>امسك الهاتف بالقرب من جواز السفر</string>
+            <key>uq_reading_info_scanned_data_mismatch</key>
+            <string>عذرًا، يبدو أن البيانات المستخرجة من خطوة المسح غير صحيحة. سنعيدك إلى الخطوة السابقة لإعادة مسح الوثيقة.</string>
+            <key>uq_read_omn_id_error_data_mismatch</key>
+            <string>خطأ في المصادقة</string>
+            <key>uq_read_omn_id_reading</key>
+            <string>لا تحرك الوثيقة!</string>
+            <key>uq_read_omn_id_reading_completed</key>
+            <string>تم اكتمال المسح</string>
+            <key>uq_read_omn_id_reading_failed</key>
+            <string>كان ذلك قصيرًا جدًا!\nامسك الهاتف بالقرب من الهوية لفترة أطول</string>
+            <key>uq_read_omn_id_info_hold_phone</key>
+            <string>امسك الهاتف بالقرب من الهوية</string>
+            <key>uq_read_nld_dl_error_data_mismatch</key>
+            <string>خطأ في المصادقة</string>
+            <key>uq_read_nld_dl_reading</key>
+            <string>لا تحرك الوثيقة!</string>
+            <key>uq_read_nld_dl_reading_completed</key>
+            <string>تم اكتمال المسح</string>
+            <key>uq_read_nld_dl_reading_failed</key>
+            <string>كان ذلك قصيرًا جدًا!\nامسك الهاتف بالقرب من رخصة القيادة لفترة أطول</string>
+            <key>uq_read_nld_dl_info_hold_phone</key>
+            <string>امسك الهاتف بالقرب من رخصة القيادة</string>
+            <key>uq_reading_more_than_one_tag_found</key>
+            <string>تأكد من أن هناك وثيقة واحدة فقط بالقرب من الهاتف</string>
+            <key>uq_read_bhr_id_error_data_mismatch</key>
+            <string>خطأ في المصادقة</string>
+            <key>uq_read_bhr_id_reading</key>
+            <string>لا تحرك الوثيقة!</string>
+            <key>uq_read_bhr_id_reading_completed</key>
+            <string>تم اكتمال المسح</string>
+            <key>uq_read_bhr_id_reading_failed</key>
+            <string>كان ذلك قصيرًا جدًا!\nامسك الهاتف بالقرب من الهوية لفترة أطول</string>
+            <key>uq_read_bhr_id_info_hold_phone</key>
+            <string>امسك الهاتف بالقرب من الهوية</string>
+            <key>uq_read_nfc_session_unavailable</key>
+            <string>يبدو أن NFC الخاص بنظام iOS غير متاح حاليًا، يرجى المحاولة مرة أخرى بعد بضع ثوانٍ</string>
+            <key>uq_read_nfc_force_reading_timeout</key>
+            <string>هل تواجه مشكلة في مسح الوثيقة؟ يمكنك تخطي هذه الخطوة بالضغط على زر "تخطي" أو إعادة المحاولة بالضغط على زر "إعادة المحاولة". لا يزال بإمكانك تخطي الخطوة من خلال زر "تخطي" في أعلى اليمين الذي يظهر الآن</string>
+            <key>uq_read_nfc_window_timeout</key>
+            <string>انتهت المهلة</string>
+            <key>uq_read_qat_id_error_data_mismatch</key>
+            <string>خطأ في المصادقة</string>
+            <key>uq_read_qat_id_reading</key>
+            <string>لا تحرك الوثيقة!</string>
+            <key>uq_read_qat_id_reading_completed</key>
+            <string>تم اكتمال المسح</string>
+            <key>uq_read_qat_id_reading_failed</key>
+            <string>كان ذلك قصيرًا جدًا!\nامسك الهاتف بالقرب من الهوية لفترة أطول</string>
+            <key>uq_read_qat_id_info_hold_phone</key>
+            <string>امسك الهاتف بالقرب من الهوية</string>
+            <key>uq_read_gha_id_error_data_mismatch</key>
+            <string>خطأ في المصادقة</string>
+            <key>uq_read_gha_id_reading</key>
+            <string>لا تحرك الوثيقة!</string>
+            <key>uq_read_gha_id_reading_completed</key>
+            <string>تم اكتمال المسح</string>
+            <key>uq_read_gha_id_reading_failed</key>
+            <string>كان ذلك قصيرًا جدًا!\nامسك الهاتف بالقرب من الهوية لفترة أطول</string>
+            <key>uq_read_gha_id_info_hold_phone</key>
+            <string>امسك الهاتف بالقرب من الهوية</string>
+            <key>uq_read_sen_id_error_data_mismatch</key>
+            <string>خطأ في المصادقة</string>
+            <key>uq_read_sen_id_reading</key>
+            <string>لا تحرك الوثيقة!</string>
+            <key>uq_read_sen_id_reading_completed</key>
+            <string>تم اكتمال المسح</string>
+            <key>uq_read_sen_id_reading_failed</key>
+            <string>كان ذلك قصيرًا جدًا!\nامسك الهاتف بالقرب من الهوية لفترة أطول</string>
+            <key>uq_read_sen_id_info_hold_phone</key>
+            <string>امسك الهاتف بالقرب من الهوية</string>
+            <key>uq_read_tur_id_error_data_mismatch</key>
+            <string>خطأ في المصادقة</string>
+            <key>uq_read_tur_id_reading</key>
+            <string>لا تحرك الوثيقة!</string>
+            <key>uq_read_tur_id_reading_completed</key>
+            <string>تم اكتمال المسح</string>
+            <key>uq_read_tur_id_reading_failed</key>
+            <string>كان ذلك قصيرًا جدًا!\nامسك الهاتف بالقرب من الهوية لفترة أطول</string>
+            <key>uq_read_tur_id_info_hold_phone</key>
+            <string>امسك الهاتف بالقرب من الهوية</string>
+            <key>uq_read_dza_id_error_data_mismatch</key>
+            <string>خطأ في المصادقة</string>
+            <key>uq_read_dza_id_reading</key>
+            <string>لا تحرك الوثيقة!</string>
+            <key>uq_read_dza_id_reading_completed</key>
+            <string>تم اكتمال المسح</string>
+            <key>uq_read_dza_id_reading_failed</key>
+            <string>كان ذلك قصيرًا جدًا!\nامسك الهاتف بالقرب من الهوية لفترة أطول</string>
+            <key>uq_read_dza_id_info_hold_phone</key>
+            <string>امسك الهاتف بالقرب من الهوية</string>
+            <key>uq_read_sau_id_error_data_mismatch</key>
+            <string>خطأ في المصادقة</string>
+            <key>uq_read_sau_id_reading</key>
+            <string>لا تحرك الوثيقة!</string>
+            <key>uq_read_sau_id_reading_completed</key>
+            <string>تم اكتمال المسح</string>
+            <key>uq_read_sau_id_reading_failed</key>
+            <string>كان ذلك قصيرًا جدًا!\nامسك الهاتف بالقرب من الهوية لفترة أطول</string>
+            <key>uq_read_sau_id_info_hold_phone</key>
+            <string>امسك الهاتف بالقرب من الهوية</string>
+            <key>uq_read_irq_id_error_data_mismatch</key>
+            <string>خطأ في المصادقة</string>
+            <key>uq_read_irq_id_reading</key>
+            <string>لا تحرك الوثيقة!</string>
+            <key>uq_read_irq_id_reading_completed</key>
+            <string>تم اكتمال المسح</string>
+            <key>uq_read_irq_id_reading_failed</key>
+            <string>كان ذلك قصيرًا جدًا!\nامسك الهاتف بالقرب من الهوية لفترة أطول</string>
+            <key>uq_read_irq_id_info_hold_phone</key>
+            <string>امسك الهاتف بالقرب من الهوية</string>
+        </dict>
+        <key>uq_face_recognition_module_text</key>
+        <dict>
+            <key>uq_face_title</key>
+            <string>التحقق من الوجه</string>
+            <key>uq_face_position</key>
+            <string>ضع رأسك داخل الدائرة البيضاوية،\nثم ابدأ التسجيل</string>
+            <key>uq_face_facial_recognition_find_face</key>
+            <string>جارٍ اكتشاف الوجه</string>
+            <key>uq_face_facial_recognition_warning_face_detection</key>
+            <string>لم يتم اكتشاف أي وجه</string>
+            <key>uq_face_dialog_face_not_match</key>
+            <string>وجهك لم يتطابق</string>
+            <key>uq_face_hints</key>
+            <string>إليك بعض النصائح:\n1. ضع وجهك داخل الدائرة البيضاوية\n2. انظر مباشرة إلى الكاميرا\n3. لا تحرك الجهاز</string>
+            <key>uq_face_too_dark</key>
+            <string>مظلم جدًا!</string>
+            <key>uq_face_too_light</key>
+            <string>مضيء جدًا!</string>
+            <key>uq_face_too_close</key>
+            <string>قريب جدًا!</string>
+            <key>uq_face_too_far</key>
+            <string>بعيد جدًا!</string>
+            <key>uq_face_perfect</key>
+            <string>مثالي!</string>
+            <key>uq_face_facial_recognition_face_too_far</key>
+            <string>اقترب من الدائرة البيضاوية</string>
+            <key>uq_face_facial_recognition_face_too_close</key>
+            <string>ابتعد عن الدائرة البيضاوية</string>
+            <key>uq_face_facial_recognition_not_centered</key>
+            <string>مركز وجهك في الدائرة البيضاوية</string>
+            <key>uq_face_facial_recognition_face_too_light</key>
+            <string>قم بتغيير ظروف الإضاءة لتجنب انعكاسات الضوء القوية على وجهك</string>
+            <key>uq_face_facial_recognition_background_too_dark</key>
+            <string>تأكد من أن البيئة ليست مظلمة جدًا</string>
+            <key>uq_face_facial_recognition_face_eyes_too_dark</key>
+            <string>قم بتغيير ظروف الإضاءة لتجنب تأثير الظل على وجهك</string>
+            <key>uq_face_facial_recognition_too_many_faces_found</key>
+            <string>تم اكتشاف عدد كبير جدًا من الوجوه</string>
+            <key>uq_face_facial_recognition_hold_position</key>
+            <string>حافظ على هذا الوضع!</string>
+            <key>uq_face_facial_recognition_face_bad_quality_blurred</key>
+            <string>تأكد من وجود إضاءة جيدة لالتقاط سيلفي بجودة جيدة</string>
+            <key>uq_face_facial_recognition_face_bad_quality_noise</key>
+            <string>تأكد من وجود إضاءة جيدة لالتقاط سيلفي بجودة جيدة</string>
+            <key>uq_face_facial_recognition_face_bad_quality_hazed</key>
+            <string>تأكد من ظروف الإضاءة الجيدة وتحقق من نظافة عدسة الكاميرا الأمامية</string>
+            <key>uq_face_facial_recognition_face_bad_quality</key>
+            <string>تأكد من وجود إضاءة جيدة لالتقاط سيلفي بجودة جيدة</string>
+            <key>uq_face_facial_recognition_face_no_mouth_detected</key>
+            <string>قم بإزالة أي شيء يغطي وجهك، مثل القناع</string>
+            <key>uq_face_facial_recognition_face_no_eyes_detected</key>
+            <string>قم بإزالة أي شيء يمكن أن يغطي عينيك، مثل النظارات الشمسية</string>
+            <key>uq_face_facial_recognition_no_look</key>
+            <string>انظر مباشرة إلى الكاميرا</string>
+            <key>uq_face_facial_recognition_face_tilt_left</key>
+            <string>أمل رأسك إلى اليسار</string>
+            <key>uq_face_facial_recognition_face_tilt_right</key>
+            <string>أمل رأسك إلى اليمين</string>
+        </dict>
+        <key>uq_background_check_module_text</key>
+        <dict>
+            <key>uq_bg_check_background_check</key>
+            <string>التحقق من الخلفية</string>
+            <key>uq_bg_check_background_check_description</key>
+            <string>نص يوضح ما هو التحقق من الخلفية وما هي الفحوصات التي سيتم إجراؤها.</string>
+            <key>uq_bg_check_sending_status</key>
+            <string>جاري المعالجة...</string>
+            <key>uq_bg_check_error_decline</key>
+            <string>هل أنت متأكد أنك تريد الرفض؟</string>
+            <key>uq_bg_check_error_exit</key>
+            <string>هل أنت متأكد أنك تريد الخروج من عملية التسجيل؟</string>
+        </dict>
+        <key>uq_lookup_flow_module_text</key>
+        <dict>
+            <key>uq_lookup_gha_voter_id_placeholder_text_voter_id</key>
+            <string>أدخل رقم هوية الناخب</string>
+            <key>uq_lookup_gha_voter_id_feedback_text_voter_id</key>
+            <string>يرجى إدخال رقم هوية الناخب</string>
+            <key>uq_lookup_gha_voter_id_placeholder_text_full_name</key>
+            <string>أدخل اسمك الكامل</string>
+            <key>uq_lookup_gha_voter_id_feedback_text_full_name</key>
+            <string>يرجى إدخال اسمك الكامل</string>
+            <key>uq_lookup_gha_ssni_placeholder_text_socials_security_number</key>
+            <string>أدخل رقم الضمان الاجتماعي</string>
+            <key>uq_lookup_gha_ssni_feedback_text_social_security_number</key>
+            <string>يرجى إدخال رقم الضمان الاجتماعي</string>
+            <key>uq_lookup_gha_ssni_placeholder_text_full_name</key>
+            <string>أدخل اسمك الكامل</string>
+            <key>uq_lookup_gha_ssni_feedback_text_full_name</key>
+            <string>يرجى إدخال اسمك الكامل</string>
+            <key>uq_lookup_gha_ssni_placeholder_text_date_of_birth</key>
+            <string>اختر تاريخ ميلادك</string>
+            <key>uq_lookup_gha_ssni_feedback_text_date_of_birth</key>
+            <string>يرجى اختيار تاريخ ميلادك</string>
+            <key>uq_lookup_gha_dl_placeholder_text_license_number</key>
+            <string>أدخل رقم رخصة القيادة</string>
+            <key>uq_lookup_gha_dl_feedback_text_license_number</key>
+            <string>يرجى إدخال رقم رخصة القيادة</string>
+            <key>uq_lookup_gha_dl_placeholder_text_full_name</key>
+            <string>أدخل اسمك الكامل</string>
+            <key>uq_lookup_gha_dl_feedback_text_full_name</key>
+            <string>يرجى إدخال اسمك الكامل</string>
+            <key>uq_lookup_gha_dl_placeholder_text_date_of_birth</key>
+            <string>اختر تاريخ ميلادك</string>
+            <key>uq_lookup_gha_dl_feedback_text_date_of_birth</key>
+            <string>يرجى اختيار تاريخ ميلادك</string>
+            <key>uq_lookup_ind_id_placeholder_document_number</key>
+            <string>أدخل رقم آداهار</string>
+            <key>uq_lookup_ind_id_feedback_text_document_number</key>
+            <string>يرجى إدخال رقم آداهار</string>
+            <key>uq_lookup_ind_id_subtitle_text_otp</key>
+            <string>أدخل رمز OTP الذي تم استلامه على هاتفك المحمول</string>
+            <key>uq_lookup_ind_id_feedback_text_otp</key>
+            <string>يرجى إدخال رمز OTP</string>
+            <key>uq_lookup_ind_id_feedback_text_time_remaining</key>
+            <string>الوقت المتبقي: %@</string>
+            <key>uq_lookup_ind_id_feedback_text_time_expired</key>
+            <string>انتهت صلاحية OTP</string>
+            <key>uq_lookup_ind_pan_placeholder_text_document_number</key>
+            <string>أدخل رقم بطاقة PAN</string>
+            <key>uq_lookup_ind_pan_feedback_text_document_number</key>
+            <string>يرجى إدخال رقم بطاقة PAN</string>
+            <key>uq_lookup_ken_id_placeholder_identity_number</key>
+            <string>أدخل رقم الهوية</string>
+            <key>uq_lookup_ken_id_feedback_text_identity_number</key>
+            <string>يرجى إدخال رقم الهوية</string>
+            <key>uq_lookup_ken_id_placeholder_text_first_name</key>
+            <string>أدخل اسمك الأول</string>
+            <key>uq_lookup_ken_id_feedback_text_first_name</key>
+            <string>يرجى إدخال اسمك الأول</string>
+            <key>uq_lookup_ken_id_placeholder_text_last_name</key>
+            <string>أدخل اسمك الأخير</string>
+            <key>uq_lookup_ken_id_feedback_text_last_name</key>
+            <string>يرجى إدخال اسمك الأخير</string>
+            <key>uq_lookup_ken_id_placeholder_text_date_of_birth</key>
+            <string>اختر تاريخ ميلادك</string>
+            <key>uq_lookup_ken_id_feedback_text_date_of_birth</key>
+            <string>يرجى اختيار تاريخ ميلادك</string>
+            <key>uq_lookup_ken_id_placeholder_text_gender</key>
+            <string>اختر جنسك</string>
+            <key>uq_lookup_ken_id_feedback_text_gender</key>
+            <string>يرجى اختيار جنسك</string>
+            <key>uq_lookup_nga_voter_id_placeholder_text_identity_number</key>
+            <string>أدخل رقم الهوية</string>
+            <key>uq_lookup_nga_voter_id_feedback_text_identity_number</key>
+            <string>يرجى إدخال رقم الهوية</string>
+            <key>uq_lookup_nga_voter_id_placeholder_text_date_of_birth</key>
+            <string>اختر تاريخ ميلادك</string>
+            <key>uq_lookup_nga_voter_id_feedback_text_date_of_birth</key>
+            <string>يرجى اختيار تاريخ ميلادك</string>
+            <key>uq_lookup_nga_voter_id_placeholder_text_first_name</key>
+            <string>أدخل اسمك الأول</string>
+            <key>uq_lookup_nga_voter_id_feedback_text_first_name</key>
+            <string>يرجى إدخال اسمك الأول</string>
+            <key>uq_lookup_nga_voter_id_placeholder_text_last_name</key>
+            <string>أدخل اسمك الأخير</string>
+            <key>uq_lookup_nga_voter_id_feedback_text_last_name</key>
+            <string>يرجى إدخال اسمك الأخير</string>
+            <key>uq_lookup_nga_nin_placeholder_text_nin</key>
+            <string>أدخل رقم NIN الخاص بك</string>
+            <key>uq_lookup_nga_nin_feedback_text_nin</key>
+            <string>يرجى إدخال 11 رقمًا من NIN</string>
+            <key>uq_lookup_nga_nin_placeholder_text_first_name</key>
+            <string>أدخل اسمك الأول</string>
+            <key>uq_lookup_nga_nin_feedback_text_first_name</key>
+            <string>يرجى إدخال اسمك الأول</string>
+            <key>uq_lookup_nga_nin_placeholder_text_last_name</key>
+            <string>أدخل اسمك الأخير</string>
+            <key>uq_lookup_nga_nin_feedback_text_last_name</key>
+            <string>يرجى إدخال اسمك الأخير</string>
+            <key>uq_lookup_nga_dl_placeholder_text_license_number</key>
+            <string>أدخل رقم رخصة القيادة</string>
+            <key>uq_lookup_nga_dl_feedback_text_license_number</key>
+            <string>يرجى إدخال رقم رخصة القيادة</string>
+            <key>uq_lookup_nga_dl_placeholder_text_date_of_birth</key>
+            <string>اختر تاريخ ميلادك</string>
+            <key>uq_lookup_nga_dl_feedback_text_date_of_birth</key>
+            <string>يرجى اختيار تاريخ ميلادك</string>
+            <key>uq_lookup_nga_bvn_placeholder_text_bvn</key>
+            <string>أدخل رقم BVN الخاص بك</string>
+            <key>uq_lookup_nga_bvn_feedback_text_bvn</key>
+            <string>يرجى إدخال رقم BVN الخاص بك</string>
+            <key>uq_lookup_nga_bvn_placeholder_text_first_name</key>
+            <string>أدخل اسمك الأول</string>
+            <key>uq_lookup_nga_bvn_feedback_text_first_name</key>
+            <string>يرجى إدخال اسمك الأول</string>
+            <key>uq_lookup_nga_bvn_placeholder_text_last_name</key>
+            <string>أدخل اسمك الأخير</string>
+            <key>uq_lookup_nga_bvn_feedback_text_last_name</key>
+            <string>يرجى إدخال اسمك الأخير</string>
+            <key>uq_lookup_zaf_id_placeholder_text_identity_number</key>
+            <string>أدخل رقم الهوية</string>
+            <key>uq_lookup_zaf_id_feedback_text_identity_number</key>
+            <string>يرجى إدخال رقم الهوية</string>
+            <key>uq_lookup_uga_voter_id_placeholder_text_document_number</key>
+            <string>أدخل رقم هوية الناخب</string>
+            <key>uq_lookup_uga_voter_id_feedback_text_document_number</key>
+            <string>يرجى إدخال رقم هوية الناخب</string>
+            <key>uq_lookup_uga_voter_id_id_placeholder_text_first_name</key>
+            <string>أدخل اسمك الأول</string>
+            <key>uq_lookup_uga_voter_id_id_feedback_text_first_name</key>
+            <string>يرجى إدخال اسمك الأول</string>
+            <key>uq_lookup_uga_voter_id_placeholder_text_last_name</key>
+            <string>أدخل اسمك الأخير</string>
+            <key>uq_lookup_uga_voter_id_feedback_text_last_name</key>
+            <string>يرجى إدخال اسمك الأخير</string>
+            <key>uq_lookup_text_gender_male</key>
+            <string>ذكر</string>
+            <key>uq_lookup_text_gener_female</key>
+            <string>أنثى</string>
+            <key>uq_lookup_date_format_text</key>
+            <string>dd/MM/yyyy</string>
+            <key>uq_lookup_otp_title_text</key>
+            <string>التحقق من OTP</string>
+            <key>uq_lookup_error_invalid_input</key>
+            <string>لم نجد أي وثيقة، يرجى التحقق من أن القيم في النموذج صحيحة</string>
+            <key>uq_lookup_error_id_not_found</key>
+            <string>رقم الهوية غير موجود، يرجى التحقق من القيمة التي أدخلتها في النموذج</string>
+            <key>uq_lookup_error_invalid_otp</key>
+            <string>رمز OTP غير صالح، يرجى التحقق والمحاولة مرة أخرى</string>
+            <key>uq_lookup_error_request_timeout</key>
+            <string>انتهت مهلة الطلب، يرجى المحاولة مرة أخرى</string>
+            <key>uq_lookup_feedback_expired_otp</key>
+            <string>انتهت صلاحية OTP، يرجى الضغط على زر إعادة الإرسال لتلقي رمز OTP جديد</string>
+        </dict>
+    </dict>
 </plist>
