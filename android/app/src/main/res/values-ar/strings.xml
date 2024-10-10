@@ -181,7 +181,7 @@
     <string name="uq_read_passport_error_data_mismatch_title">Attention</string>
     <string name="uq_read_passport_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
     <string name="uq_read_passport_error_nfc_disabled">We need to enable NFC in order to read the data from your passport. This allow us to have more accurate data.</string>
-    <string name="uq_read_passport_reading_data">Don't move document!</string>
+    <string name="uq_read_passport_reading_data">Don\'t move document!</string>
     <string name="uq_read_passport_reading_completed">Scanning Completed</string>
     <string name="uq_read_passport_reading_failed">That was too short!</string>
     <string name="uq_read_passport_info_hold_phone">Hold the phone near Passport for longer</string>
@@ -200,7 +200,7 @@
     <string name="uq_read_bhr_id_error_data_mismatch_title">Attention</string>
     <string name="uq_read_bhr_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
     <string name="uq_read_bhr_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Barhain Id. This allow us to have more accurate data.</string>
-    <string name="uq_read_bhr_id_reading">Don't move document!</string>
+    <string name="uq_read_bhr_id_reading">Don\'t move document!</string>
     <string name="uq_read_bhr_id_reading_completed">Scanning Completed</string>
     <string name="uq_read_bhr_id_reading_failed">That was too short!</string>
     <string name="uq_read_bhr_id_info_hold_phone">Hold the phone near ID for longer</string>
@@ -213,7 +213,7 @@
     <string name="uq_read_gha_id_error_data_mismatch_title">Attention</string>
     <string name="uq_read_gha_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
     <string name="uq_read_gha_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Ghana Id. This allow us to have more accurate data.</string>
-    <string name="uq_read_gha_id_reading">Don't move document!</string>
+    <string name="uq_read_gha_id_reading">Don\'t move document!</string>
     <string name="uq_read_gha_id_reading_completed">Scanning Completed</string>
     <string name="uq_read_gha_id_reading_failed">That was too short!</string>
     <string name="uq_read_gha_id_info_hold_phone">Hold the phone near ID for longer</string>
@@ -229,7 +229,7 @@
     <string name="uq_read_omn_id_error_data_mismatch_title">Attention</string>
     <string name="uq_read_omn_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
     <string name="uq_read_omn_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Oman Id. This allow us to have more accurate data.</string>
-    <string name="uq_read_omn_id_reading">Don't move document!</string>
+    <string name="uq_read_omn_id_reading">Don\'t move document!</string>
     <string name="uq_read_omn_id_reading_completed">Scanning Completed</string>
     <string name="uq_read_omn_id_reading_failed">That was too short!</string>
     <string name="uq_read_omn_id_info_hold_phone">Hold the phone near ID for longer</string>
@@ -242,7 +242,7 @@
     <string name="uq_read_qat_id_error_data_mismatch_title">Attention</string>
     <string name="uq_read_qat_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
     <string name="uq_read_qat_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Qatar Id. This allow us to have more accurate data.</string>
-    <string name="uq_read_qat_id_reading">Don't move document!</string>
+    <string name="uq_read_qat_id_reading">Don\'t move document!</string>
     <string name="uq_read_qat_id_reading_completed">Scanning Completed</string>
     <string name="uq_read_qat_id_reading_failed">That was too short!</string>
     <string name="uq_read_qat_id_info_hold_phone">Hold the phone near ID for longer</string>
@@ -258,7 +258,7 @@
     <string name="uq_read_sen_id_error_data_mismatch_title">Attention</string>
     <string name="uq_read_sen_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
     <string name="uq_read_sen_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Senegal Id. This allow us to have more accurate data.</string>
-    <string name="uq_read_sen_id_reading">Don't move document!</string>
+    <string name="uq_read_sen_id_reading">Don\'t move document!</string>
     <string name="uq_read_sen_id_reading_completed">Scanning Completed</string>
     <string name="uq_read_sen_id_reading_failed">That was too short!</string>
     <string name="uq_read_sen_id_info_hold_phone">Hold the phone near ID for longer</string>
@@ -274,7 +274,7 @@
     <string name="uq_read_uae_id_error_data_mismatch_title">Attention</string>
     <string name="uq_read_uae_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
     <string name="uq_read_uae_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Emirates Id. This allow us to have more accurate data.</string>
-    <string name="uq_read_uae_id_reading">Don't move document!</string>
+    <string name="uq_read_uae_id_reading">Don\'t move document!</string>
     <string name="uq_read_uae_id_reading_completed">Scanning Completed</string>
     <string name="uq_read_uae_id_reading_failed">That was too short!</string>
     <string name="uq_read_uae_id_info_hold_phone">Hold the phone near ID for longer</string>
@@ -288,7 +288,7 @@
     <string name="uq_read_nld_dl_error_data_mismatch_title">Attention</string>
     <string name="uq_read_nld_dl_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
     <string name="uq_read_nld_dl_error_nfc_disabled">We need to enable NFC in order to read the data from your driving license. This allow us to have more accurate data.</string>
-    <string name="uq_read_nld_dl_reading_data">Don't move document!</string>
+    <string name="uq_read_nld_dl_reading_data">Don\'t move document!</string>
     <string name="uq_read_nld_dl_reading_completed">Scanning Completed</string>
     <string name="uq_read_nld_dl_reading_failed">That was too short!</string>
     <string name="uq_read_nld_dl_info_hold_phone">Hold the phone near Driving License for longer</string>
