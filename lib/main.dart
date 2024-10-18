@@ -19,7 +19,6 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   String _result = '';
 
-
   @override
   void initState() {
     super.initState();
@@ -29,7 +28,7 @@ class _MyAppState extends State<MyApp> {
   }
 
   static const EventChannel _eventChannel =
-  EventChannel('io.uqudo.sdk.id/trace');
+      EventChannel('io.uqudo.sdk.id/trace');
 
   void listenNativeEvent() {
     _eventChannel.receiveBroadcastStream().listen(_onEvent, onError: _onError);
@@ -88,12 +87,13 @@ class _MyAppState extends State<MyApp> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 OutlinedButton.icon(
-
                   onPressed: () => passportEnrollment(),
                   icon: const Icon(Icons.touch_app),
                   label: const Text('Start Passport Onboarding'),
                 ),
-                const SizedBox(height: 20), // Add some spacing between the button and result text
+                const SizedBox(
+                    height:
+                        20), // Add some spacing between the button and result text
                 Padding(
                   padding: const EdgeInsets.all(8.0),
                   child: Text(
