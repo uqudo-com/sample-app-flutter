@@ -1,0 +1,508 @@
+<resources>
+    <!--===== General =====--> 
+    <string name="uq_error_quit_message">Are you sure you want to quit the enrollment?</string>
+    <string name="uq_status_title_hold_on">Please hold on, it can take up to 1 minute</string>
+    <string name="uq_error_something_wrong">Something went wrong, please try again later</string>
+    <string name="uq_error_service_unavailable">Service not available at the moment, please try again later</string>
+    <string name="uq_error_request_timeout">Request timed out, please try again</string>
+    <string name="uq_error_nfc_reader">Something went wrong accessing the data, please try later</string>
+    <string name="uq_error_network_unavailable">Internet not available, please make sure to have a valid connection before continuing</string>
+    <string name="uq_error_reader_unavailable">Reader for requested type is not available</string>
+    <string name="uq_error_rooted_device_found">Feature not supported on Rooted Device</string>
+    <string name="uq_error_nfc_not_found">Requested feature not supported on device</string>
+    <string name="uq_error_auth_token_missing">Authentication token missing</string>
+    <string name="uq_error_document_missing">At least 1 document is required</string>
+    <string name="uq_error_permission_denied">Permission request denied</string>
+    <string name="uq_error_enrollment_identifier_missing">Enrollment identifier is needed to recover the account</string>
+    <string name="uq_error_enrollment_session_id_missing">A valid session id is required to perform a face session</string>
+    <string name="uq_error_enrollment_facial_recognition_not_supported">Facial recognition not supported for the document selected</string>
+    <string name="uq_error_enrollment_document_not_supported">Enrollment flow not supported for the document selected</string>
+    <string name="uq_error_lookup_document_not_supported">Lookup flow not supported for the document selected</string>
+    <string name="uq_error_camera_permission_denied">Attention</string>
+    <string name="uq_error_camera_permission_denied_description">You denied the camera access before and it is required to use this application. After you click the button below you will be taken to the application settings where you can allow the camera access. Please note that the application might be restarted after changing the setting.</string>
+    <string name="uq_button_title_continue">Continue</string>
+
+    <string name="uq_error_status_internal_error">The service encountered an internal error</string>
+    <string name="uq_error_status_forbidden">The requested feature is not available</string>
+    <string name="uq_error_status_session_expired_or_not_found">Session expired or not found</string>
+    <string name="uq_error_status_user_cancelled">User cancelled the process</string>
+    <string name="uq_error_status_payload_too_large">The payload is too large</string>
+    <string name="uq_error_status_unexpected_error">Something went wrong, please try again</string>
+    <string name="uq_error_status_face_max_failed_attempt_reached">Session invalidated because of %1$d facial recognition failure attempts</string>
+    <string name="uq_error_status_reading_not_supported">Reading is not supported by the document</string>
+    <string name="uq_error_status_reading_chip_validation">Chip validation failed</string>
+    <string name="uq_error_status_reading_invalid_document">Invalid document</string>
+    <string name="uq_error_status_session_invalidated_otp_expired">Session invalidated because of too many OTP attempts</string>
+    <string name="uq_error_status_session_invalidated_camera_not_available">Camera not available</string>
+    <string name="uq_error_status_session_invalidated_camera_not_permission_not_granted">User did not grant camera permission</string>
+
+    <string name="uq_error_internal_error">The service encountered an internal error</string>
+    <string name="uq_error_payload_too_large">The payload is too large</string>
+    <string name="uq_error_forbidden">The requested feature is not available</string>
+    <string name="uq_error_invalid_input">Missing required input or invalid format</string>
+    <string name="uq_error_session_expired_or_not_found">Session expired or not found</string>
+    <string name="uq_error_scan_document_not_recognized">Document type not recognized</string>
+    <string name="uq_error_scan_document_expired">Document is expired</string>
+    <string name="uq_error_scan_document_front_back_mismatch">Front and back page don\'t belong to the same document</string>
+    <string name="uq_error_scan_document_edit_not_enabled">Manual editing of the scanned document is not enabled</string>
+    <string name="uq_error_read_document_invalid_signature">Document invalid digital signature found</string>
+    <string name="uq_error_read_document_invalid">Invalid document</string>
+    <string name="uq_error_read_document_expired">Document is expired</string>
+    <string name="uq_error_face_liveness_retry">Liveness retry</string>
+    <string name="uq_error_face_liveness_failed">Liveness failed</string>
+    <string name="uq_error_face_no_match">Face doesn\'t match all the documents provided</string>
+
+    <string name="uq_initiating_data">Initiating&#8230;</string>
+    <string name="uq_validating_data">Validating&#8230;</string>
+    <string name="uq_fetching_result">Closing session&#8230;</string>
+    <string name="uq_error_retry">Please make sure the device is connected to internet and then retry</string>
+    <string name="uq_retry">Retry</string>
+    <string name="uq_quit">Quit</string>
+    <string name="uq_cancel">Cancel</string>
+    <string name="uq_yes">Yes</string>
+    <string name="uq_no">No</string>
+    <string name="uq_confirm">Confirm</string>
+    <string name="uq_ok">OK</string>
+    <string name="uq_page_number">Page %1$d - %2$d</string>
+    <string name="uq_start">Start</string>
+    <string name="uq_scan">Scan</string>
+    <string name="uq_upload">Upload</string>
+
+    <string name="uq_uae_id_description">Emirates ID</string>
+    <string name="uq_uae_dl_description">Driving License</string>
+    <string name="uq_nld_dl_description">Driving License</string>
+    <string name="uq_uae_vl_description">Vehicle License</string>
+    <string name="uq_omn_id_description">Omani ID</string>
+    <string name="uq_omn_id_national_description">Omani ID for Citizens</string>
+    <string name="uq_omn_id_resident_description">Omani ID for Residents</string>
+    <string name="uq_passport_description">Passport</string>
+    <string name="uq_visa_description">UAE Visa</string>
+    <string name="uq_pakistan_id_description">Pakistan National ID</string>
+    <string name="uq_bahrain_id_description">Bahrain National ID</string>
+    <string name="uq_saudi_id_description">Saudi National ID</string>
+    <string name="uq_saudi_id_national_description">Saudi ID for Citizens</string>
+    <string name="uq_saudi_id_resident_description">Saudi ID for Residents</string>
+    <string name="uq_kuwait_id_description">Kuwait National ID</string>
+    <string name="uq_generic_id_description">National ID</string>
+    <string name="uq_qatar_id_description">Qatar National ID</string>
+    <string name="uq_german_id_description">German National ID</string>
+    <string name="uq_sdn_id_description">National ID</string>
+    <string name="uq_sdn_dl_description">Driving License</string>
+    <string name="uq_sdn_vl_description">Vehicle License</string>
+    <string name="uq_gha_id_description">Ghanaian ID</string>
+    <string name="uq_nga_dl_description">Driving License</string>
+    <string name="uq_nga_voter_id_description">Nigerian Voter ID</string>
+    <string name="uq_nga_nin_description">Nigerian NIN</string>
+    <string name="uq_gbr_dl_description">Driving License</string>
+    <string name="uq_sau_dl_description">Driving License</string>
+    <string name="uq_zaf_id_description">South African ID</string>
+    <string name="uq_zaf_dl_description">Driving License</string>
+    <string name="uq_egy_id_description">Egyptian ID</string>
+    <string name="uq_rwa_id_description">Rwandan ID</string>
+    <string name="uq_ken_id_description">Kenyan ID</string>
+    <string name="uq_gha_dl_description">Driving License</string>
+    <string name="uq_gha_voter_id_description">Ghanaian Voter ID</string>
+    <string name="uq_gha_ssnit_description">SSNIT</string>
+    <string name="uq_uga_id_description">Ugandan ID</string>
+    <string name="uq_ind_id_description">Indian Aadhaar ID</string>
+    <string name="uq_uga_voter_id_description">Uganda Voter ID</string>
+    <string name="uq_sen_id_description">Senegal ID</string>
+    <string name="uq_dza_id_description">Algerian ID</string>
+    <string name="uq_tur_id_description">Turkish ID</string>
+    <string name="uq_gbr_id_description">Resident ID</string>
+    <string name="uq_cod_dl_description">Driving License</string>
+    <string name="uq_omn_dl_description">Driving License</string>
+    <string name="uq_omn_vl_description">Vehicle License</string>
+    <string name="uq_cod_voter_id_description">Voter ID</string>
+    <string name="uq_usa_dl_description">Driving License</string>
+    <string name="uq_qat_dl_description">Driving License</string>
+    <string name="uq_bhr_dl_description">Driving License</string>
+    <string name="uq_phl_dl_description">Driving License</string>
+    <string name="uq_rsl_id_description">Somalia ID</string>
+    <string name="uq_ind_pan_description">PAN card</string>
+    <string name="uq_nga_bvn_description">Nigerian BVN</string>
+    <string name="uq_lbn_id_description">Lebanese ID</string>
+    <string name="uq_lbn_dl_description">Driving License</string>
+    <string name="uq_mrz_description">MRZ</string>
+    <string name="uq_irq_id_description">Iraqi ID</string>
+
+
+    <string name="uq_document_front">front</string>
+    <string name="uq_document_back">back</string>
+
+    <!--===== Scanning =====--> 
+    <string name="uq_scan_help_page_title">Scan %1$s</string>
+    <string name="uq_scan_upload_page_title">Upload %1$s</string>
+    <string name="uq_scan_help_page_description">Fit %1$s to the frame</string>
+
+    <string name="uq_scan_info_id">If there are glares or reflections scan in a different position. Ensure camera lens is clean.</string>
+    <string name="uq_scan_scan_info">Please scan the %1$s page of your document</string>
+    <string name="uq_scan_glare_detected">Glare detected, change lighting conditions</string>
+    <string name="uq_scan_message">Fit %1$s side to the frame</string>
+    <string name="uq_scan_done_message_single_side">Scanning Completed</string>
+    <string name="uq_scan_message_single_side">Fit data page to frame</string>
+    <string name="uq_scan_message_mrz">Fit the document side that contains the MRZ (Machine Readable Zone) to the frame</string>
+    <string name="uq_scan_review">Scan Review</string>
+    <string name="uq_scan_text_visible">Ensure all data is clearly readable</string>
+    <string name="uq_scan_face_visible">Ensure your face is clearly visible\nand no hologram is covering it</string>
+    <string name="uq_scan_rescan">Rescan</string>
+    <string name="uq_scan_continue">Continue</string>
+    <string name="uq_scan_upload_select_file">Select File</string>
+    <string name="uq_scan_upload_accepted_file_type">Accepted file type: PDF</string>
+    <string name="uq_scan_upload_tip">For a two side document the first image in the PDF must be the front side and the second image the back side</string>
+    <string name="uq_scan_upload_no_file_selected">No file selected</string>
+    <string name="uq_scan_upload_max_file_size">Max file size allowed is 5MB</string>
+    <string name="uq_scan_face_detection_issue">Make sure the ID photo in the document is clear</string>
+    <string name="uq_scan_blur_image_detected">Blurry image detected. Ensure clean lens and good lighting. Stay still while scanning</string>
+    <string name="uq_scan_dark_image_detected">Low light conditions detected, please ensure good lighting while scanning</string>
+    <string name="uq_scan_wrong_document">Please provide the %1$s side of the %2$s</string>
+    <string name="uq_scan_wrong_mrz">Please provide the document side that contains the MRZ (Machine Readable Zone)</string>
+    <string name="uq_scan_document_move_closer">Please move the camera closer to the document</string>
+    <string name="uq_scan_source_detection_failed">Please provide a physical document</string>
+    <string name="uq_scan_id_photo_tampering_detected">An alteration of the ID photo has been detected. Tampering with the ID photo is strictly prohibited</string>
+    <string name="uq_scan_intermediate_loading">Hold on</string>
+
+    <!--  Error messages  -->
+    <string name="uq_scan_event_alert_btn">Try Again</string>
+    <string name="uq_scan_turn_text">Turn document over</string>
+
+    <string name="uq_scan_error_failed">Scanning Failed</string>
+    <string name="uq_scan_error_expired">Please make sure to use a valid document</string>
+    <string name="uq_scan_error_age_verification">Document not accepted, minimum age required %1$d</string>
+    <string name="uq_scan_error_document_identify"><![CDATA[<b>Ensure:\n1. </b> Good lighting conditions\n<b>2.</b> Camera lens is clean\n<b>3.</b> No reflections on document\n<b>4.</b> Remove any stickers on the document]]></string>
+    <string name="uq_scan_error_upload_document_identify">Make sure that the PDF contains the requested document and it is clearly visible. For a two side document the front side must be the first picture, the back side the second picture</string>
+
+    <!--===== Reading =====--> 
+
+    <!-- Passport -->
+    <string name="uq_read_passport_skip_nfc">Skip</string>
+    <string name="uq_read_passport_skip">Skip</string>
+    <string name="uq_read_passport_help">&lt;u>Press here for help&lt;/u></string>
+    <string name="uq_read_passport_error_data_mismatch_title">Attention</string>
+    <string name="uq_read_passport_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
+    <string name="uq_read_passport_error_nfc_disabled">We need to enable NFC in order to read the data from your passport. This allow us to have more accurate data.</string>
+    <string name="uq_read_passport_reading_data">Don\'t move document!</string>
+    <string name="uq_read_passport_reading_completed">Scanning Completed</string>
+    <string name="uq_read_passport_reading_failed">That was too short!</string>
+    <string name="uq_read_passport_info_hold_phone">Hold the phone near Passport for longer</string>
+    <string name="uq_read_passport_reading_lost_communication">Unable to read the data, please hold the phone still</string>
+    <string name="uq_read_passport_help_info">tap your passport with the phone whenever you are ready</string>
+    <string name="uq_read_passport_help_page_title">Scan contactless chip</string>
+    <string name="uq_read_passport_help_page_description"><![CDATA[Place the back camera on passport for<br><B>10\u00A0seconds</B>]]></string>
+    <string name="uq_read_passport_help_page2_title">Remove the cover from both the phone and the passport.</string>
+    <string name="uq_read_passport_help_page3_title">Hold the front page of the passport near to the phone.</string>
+    <string name="uq_read_passport_help_page4_title">If the previous step doesn\'t work try to open the data page of your passport and hold it near the phone.</string>
+    <string name="uq_read_passport_help_page5_title">If the previous step doesn\'t work try to open the back page of your passport and hold it near the phone.</string>
+
+    <!-- Bahrin ID -->
+    <string name="uq_read_bhr_id_skip_nfc">Skip</string>
+    <string name="uq_read_bhr_id_skip">Skip</string>
+    <string name="uq_read_bhr_id_error_data_mismatch_title">Attention</string>
+    <string name="uq_read_bhr_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
+    <string name="uq_read_bhr_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Barhain Id. This allow us to have more accurate data.</string>
+    <string name="uq_read_bhr_id_reading">Don\'t move document!</string>
+    <string name="uq_read_bhr_id_reading_completed">Scanning Completed</string>
+    <string name="uq_read_bhr_id_reading_failed">That was too short!</string>
+    <string name="uq_read_bhr_id_info_hold_phone">Hold the phone near ID for longer</string>
+    <string name="uq_read_bhr_id_help_page_title">Scan contactless chip</string>
+    <string name="uq_read_bhr_id_help_page_description"><![CDATA[Place the back camera on ID Card  for <br><B>10\u00A0seconds</B>]]></string>
+
+    <!-- Ghana ID -->
+    <string name="uq_read_gha_id_skip_nfc">Skip</string>
+    <string name="uq_read_gha_id_skip">Skip</string>
+    <string name="uq_read_gha_id_error_data_mismatch_title">Attention</string>
+    <string name="uq_read_gha_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
+    <string name="uq_read_gha_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Ghana Id. This allow us to have more accurate data.</string>
+    <string name="uq_read_gha_id_reading">Don\'t move document!</string>
+    <string name="uq_read_gha_id_reading_completed">Scanning Completed</string>
+    <string name="uq_read_gha_id_reading_failed">That was too short!</string>
+    <string name="uq_read_gha_id_info_hold_phone">Hold the phone near ID for longer</string>
+    <string name="uq_read_gha_id_help_page_title">Scan contactless chip</string>
+    <string name="uq_read_gha_id_help_page_description"><![CDATA[Place the back camera on ID Card  for <br><B>10\u00A0seconds</B>]]></string>
+    <string name="uq_read_gha_id_force_reading_timeout">Having trouble scanning the document? You can skip this step by pressing the skip button or retry pressing the retry button. You will be still able to skip the step through the "skip" button on the top right that is now visible</string>
+    <string name="uq_read_gha_id_force_reading_timeout_try_again">Try Again</string>
+    <string name="uq_read_gha_id_force_reading_timeout_skip">Skip</string>
+
+    <!-- Oman ID -->
+    <string name="uq_read_omn_id_skip_nfc">Skip</string>
+    <string name="uq_read_omn_id_skip">Skip</string>
+    <string name="uq_read_omn_id_error_data_mismatch_title">Attention</string>
+    <string name="uq_read_omn_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
+    <string name="uq_read_omn_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Oman Id. This allow us to have more accurate data.</string>
+    <string name="uq_read_omn_id_reading">Don\'t move document!</string>
+    <string name="uq_read_omn_id_reading_completed">Scanning Completed</string>
+    <string name="uq_read_omn_id_reading_failed">That was too short!</string>
+    <string name="uq_read_omn_id_info_hold_phone">Hold the phone near ID for longer</string>
+    <string name="uq_read_omn_id_help_page_title">Scan contactless chip</string>
+    <string name="uq_read_omn_id_help_page_description"><![CDATA[Place the back camera on ID Card  for <br><B>10\u00A0seconds</B>]]></string>
+    
+    <!-- Qatar ID -->
+    <string name="uq_read_qat_id_skip_nfc">Skip</string>
+    <string name="uq_read_qat_id_skip">Skip</string>
+    <string name="uq_read_qat_id_error_data_mismatch_title">Attention</string>
+    <string name="uq_read_qat_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
+    <string name="uq_read_qat_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Qatar Id. This allow us to have more accurate data.</string>
+    <string name="uq_read_qat_id_reading">Don\'t move document!</string>
+    <string name="uq_read_qat_id_reading_completed">Scanning Completed</string>
+    <string name="uq_read_qat_id_reading_failed">That was too short!</string>
+    <string name="uq_read_qat_id_info_hold_phone">Hold the phone near ID for longer</string>
+    <string name="uq_read_qat_id_help_page_title">Scan contactless chip</string>
+    <string name="uq_read_qat_id_help_page_description"><![CDATA[Place the back camera on ID Card  for <br><B>10\u00A0seconds</B>]]></string>
+    <string name="uq_read_qat_id_force_reading_timeout">Having trouble scanning the document? You can skip this step by pressing the skip button or retry pressing the retry button. You will be still able to skip the step through the "skip" button on the top right that is now visible</string>
+    <string name="uq_read_qat_id_force_reading_timeout_try_again">Try Again</string>
+    <string name="uq_read_qat_id_force_reading_timeout_skip">Skip</string>
+
+    <!-- Senegal ID -->
+    <string name="uq_read_sen_id_skip_nfc">Skip</string>
+    <string name="uq_read_sen_id_skip">Skip</string>
+    <string name="uq_read_sen_id_error_data_mismatch_title">Attention</string>
+    <string name="uq_read_sen_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
+    <string name="uq_read_sen_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Senegal Id. This allow us to have more accurate data.</string>
+    <string name="uq_read_sen_id_reading">Don\'t move document!</string>
+    <string name="uq_read_sen_id_reading_completed">Scanning Completed</string>
+    <string name="uq_read_sen_id_reading_failed">That was too short!</string>
+    <string name="uq_read_sen_id_info_hold_phone">Hold the phone near ID for longer</string>
+    <string name="uq_read_sen_id_help_page_title">Scan contactless chip</string>
+    <string name="uq_read_sen_id_help_page_description"><![CDATA[Place the back camera on ID Card  for <br><B>10\u00A0seconds</B>]]></string>
+    <string name="uq_read_sen_id_force_reading_timeout">Having trouble scanning the document? You can skip this step by pressing the skip button or retry pressing the retry button. You will be still able to skip the step through the "skip" button on the top right that is now visible</string>
+    <string name="uq_read_sen_id_force_reading_timeout_try_again">Try Again</string>
+    <string name="uq_read_sen_id_force_reading_timeout_skip">Skip</string>
+
+    <!-- UAE ID -->
+    <string name="uq_read_uae_id_skip_nfc">Skip</string>
+    <string name="uq_read_uae_id_skip">Skip</string>
+    <string name="uq_read_uae_id_error_data_mismatch_title">Attention</string>
+    <string name="uq_read_uae_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
+    <string name="uq_read_uae_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Emirates Id. This allow us to have more accurate data.</string>
+    <string name="uq_read_uae_id_reading">Don\'t move document!</string>
+    <string name="uq_read_uae_id_reading_completed">Scanning Completed</string>
+    <string name="uq_read_uae_id_reading_failed">That was too short!</string>
+    <string name="uq_read_uae_id_info_hold_phone">Hold the phone near ID for longer</string>
+    <string name="uq_read_uae_id_help_page_title">Scan contactless chip</string>
+    <string name="uq_read_uae_id_help_page_description"><![CDATA[Place the back camera on ID Card  for <br><B>10\u00A0seconds</B>]]></string>
+
+    <!-- Netherlands Driving Licence -->
+    <string name="uq_read_nld_dl_skip_nfc">Skip</string>
+    <string name="uq_read_nld_dl_skip">Skip</string>
+    <string name="uq_read_nld_dl_help">Help</string>
+    <string name="uq_read_nld_dl_error_data_mismatch_title">Attention</string>
+    <string name="uq_read_nld_dl_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
+    <string name="uq_read_nld_dl_error_nfc_disabled">We need to enable NFC in order to read the data from your driving license. This allow us to have more accurate data.</string>
+    <string name="uq_read_nld_dl_reading_data">Don\'t move document!</string>
+    <string name="uq_read_nld_dl_reading_completed">Scanning Completed</string>
+    <string name="uq_read_nld_dl_reading_failed">That was too short!</string>
+    <string name="uq_read_nld_dl_info_hold_phone">Hold the phone near Driving License for longer</string>
+    <string name="uq_read_nld_dl_reading_lost_communication">Unable to read the data, please hold the phone still</string>
+    <string name="uq_read_nld_dl_help_info">Tap your driving license with the phone whenever you are ready</string>
+    <string name="uq_read_nld_dl_help_page_title">Scan contactless chip</string>
+    <string name="uq_read_nld_dl_help_page_description"><![CDATA[Hold phone near to driving license for <br><B>10\u00A0seconds</B>]]></string>
+
+    <!-- Algerian ID -->
+    <string name="uq_read_dza_id_skip_nfc">Skip</string>
+    <string name="uq_read_dza_id_skip">Skip</string>
+    <string name="uq_read_dza_id_error_data_mismatch_title">Attention</string>
+    <string name="uq_read_dza_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
+    <string name="uq_read_dza_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Algeria Id. This allow us to have more accurate data.</string>
+    <string name="uq_read_dza_id_reading">Don’t move document!</string>
+    <string name="uq_read_dza_id_reading_completed">Scanning Completed</string>
+    <string name="uq_read_dza_id_reading_failed">That was too short!</string>
+    <string name="uq_read_dza_id_info_hold_phone">Hold the phone near ID for longer</string>
+    <string name="uq_read_dza_id_help_page_title">Scan contactless chip</string>
+    <string name="uq_read_dza_id_help_page_description"><![CDATA[Place the back camera on ID Card  for <br><B>10\u00A0seconds</B>]]></string>
+    <string name="uq_read_dza_id_force_reading_timeout">Having trouble scanning the document? You can skip this step by pressing the skip button or retry pressing the retry button. You will be still able to skip the step through the "skip" button on the top right that is now visible</string>
+    <string name="uq_read_dza_id_force_reading_timeout_try_again">Try Again</string>
+    <string name="uq_read_dza_id_force_reading_timeout_skip">Skip</string>
+
+    <!-- Turkish ID -->
+    <string name="uq_read_tur_id_skip_nfc">Skip</string>
+    <string name="uq_read_tur_id_skip">Skip</string>
+    <string name="uq_read_tur_id_error_data_mismatch_title">Attention</string>
+    <string name="uq_read_tur_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
+    <string name="uq_read_tur_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Turkish Id. This allow us to have more accurate data.</string>
+    <string name="uq_read_tur_id_reading">Don’t move document!</string>
+    <string name="uq_read_tur_id_reading_completed">Scanning Completed</string>
+    <string name="uq_read_tur_id_reading_failed">That was too short!</string>
+    <string name="uq_read_tur_id_info_hold_phone">Hold the phone near ID for longer</string>
+    <string name="uq_read_tur_id_help_page_title">Scan contactless chip</string>
+    <string name="uq_read_tur_id_help_page_description"><![CDATA[Place the back camera on ID Card  for <br><B>10\u00A0seconds</B>]]></string>
+    <string name="uq_read_tur_id_force_reading_timeout">Having trouble scanning the document? You can skip this step by pressing the skip button or retry pressing the retry button. You will be still able to skip the step through the "skip" button on the top right that is now visible</string>
+    <string name="uq_read_tur_id_force_reading_timeout_try_again">Try Again</string>
+    <string name="uq_read_tur_id_force_reading_timeout_skip">Skip</string>
+
+    <!-- Iraq ID -->
+    <string name="uq_read_irq_id_skip_nfc">Skip</string>
+    <string name="uq_read_irq_id_skip">Skip</string>
+    <string name="uq_read_irq_id_error_data_mismatch_title">Attention</string>
+    <string name="uq_read_irq_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
+    <string name="uq_read_irq_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Iraq Id. This allow us to have more accurate data.</string>
+    <string name="uq_read_irq_id_reading">Don’t move document!</string>
+    <string name="uq_read_irq_id_reading_completed">Scanning Completed</string>
+    <string name="uq_read_irq_id_reading_failed">That was too short!</string>
+    <string name="uq_read_irq_id_info_hold_phone">Hold the phone near ID for longer</string>
+    <string name="uq_read_irq_id_help_page_title">Scan contactless chip</string>
+    <string name="uq_read_irq_id_help_page_description"><![CDATA[Place the back camera on ID Card  for <br><B>10\u00A0seconds</B>]]></string>
+    <string name="uq_read_irq_id_force_reading_timeout">Having trouble scanning the document? You can skip this step by pressing the skip button or retry pressing the retry button. You will be still able to skip the step through the "skip" button on the top right that is now visible</string>
+    <string name="uq_read_irq_id_force_reading_timeout_try_again">Try Again</string>
+    <string name="uq_read_irq_id_force_reading_timeout_skip">Skip</string>
+
+    <!-- Saudi ID -->
+    <string name="uq_read_sau_id_skip_nfc">Skip</string>
+    <string name="uq_read_sau_id_skip">Skip</string>
+    <string name="uq_read_sau_id_error_data_mismatch_title">Attention</string>
+    <string name="uq_read_sau_id_error_data_mismatch">Sorry, it seems that the data extracted from the document scanning step is not correct. We will take you again back to the previous step to perform another document scanning.</string>
+    <string name="uq_read_sau_id_error_nfc_disabled">We need to enable NFC in order to read the data from your Saudi Id. This allow us to have more accurate data.</string>
+    <string name="uq_read_sau_id_reading">Don’t move document!</string>
+    <string name="uq_read_sau_id_reading_completed">Scanning Completed</string>
+    <string name="uq_read_sau_id_reading_failed">That was too short!</string>
+    <string name="uq_read_sau_id_info_hold_phone">Hold the phone near ID for longer</string>
+    <string name="uq_read_sau_id_help_page_title">Scan contactless chip</string>
+    <string name="uq_read_sau_id_help_page_description"><![CDATA[Place the back camera on ID Card  for <br><B>10\u00A0seconds</B>]]></string>
+    <string name="uq_read_sau_id_force_reading_timeout">Having trouble scanning the document? You can skip this step by pressing the skip button or retry pressing the retry button. You will be still able to skip the step through the "skip" button on the top right that is now visible</string>
+    <string name="uq_read_sau_id_force_reading_timeout_try_again">Try Again</string>
+    <string name="uq_read_sau_id_force_reading_timeout_skip">Skip</string>
+
+
+    <!--===== Face Recognition =====--> 
+
+    <string name="uq_face_retry_message">Session canceled or timeout occurred. Want to retry?</string>
+    <string name="uq_face_position">Position head inside oval,\nthen start recording</string>
+    <string name="uq_face_title">Facial Verification</string>
+    <string name="uq_face_facial_recognition_find_face">Detecting face</string>
+    <string name="uq_face_facial_recognition_warning_face_detection">No face detected</string>
+    <string name="uq_face_dialog_face_not_match">Your face didn\'t match</string>
+    <string name="uq_face_dialog_do_not_move_phone_title">Do not move the phone</string>
+    <string name="uq_face_dialog_do_not_move_phone">Do not move phone</string>
+    <string name="uq_face_dialog_nod_slightly">Nod slightly</string>
+    <string name="uq_face_hints">Here are some hints:\n1. Fit face inside oval\n2. Follow the blue avatar\n3. Move head, not phone</string>
+    <string name="uq_face_detection_alert_title">Face not clearly visible</string>
+    <string name="uq_face_detection_alert_description"><![CDATA[Here are some hints:<br/><b>1.</b> Fit face inside oval and look straight to the camera<br/><b>2.</b> Remove anything that can cover your face, e.g. mask<br/><b>3.</b> Take off your sun glasses or eye glasses with dark lens<br/><b>4.</b> Make sure your environment is not too dark or too bright<br/><b>5.</b> Make sure the lens of your front camera are clean]]></string>
+    <string name="uq_face_avoid_condition">Avoid following conditions:</string>
+    <string name="uq_face_perfect">Perfect!</string>
+    <string name="uq_face_too_far">Too far away!</string>
+    <string name="uq_face_too_close">Too close!</string>
+    <string name="uq_face_too_light">Too light!</string>
+    <string name="uq_face_too_dark">Too dark!</string>
+    <string name="uq_face_try_again">Try again</string>
+    <string name="uq_face_facial_recognition_hold_position">Hold this position!</string>
+    <string name="uq_face_facial_recognition_too_many_faces_found">Too many faces detected</string>
+    <string name="uq_face_facial_recognition_background_too_dark">Make sure your environment is not too dark</string>
+    <string name="uq_face_facial_recognition_face_bad_quality_blurred">Ensure good lighting conditions to capture a good quality selfie</string>
+    <string name="uq_face_facial_recognition_face_bad_quality_noise">Ensure good lighting conditions to capture a good quality selfie</string>
+    <string name="uq_face_facial_recognition_face_bad_quality_hazed">Ensure good lighting conditions and check your front camera lens cleanliness</string>
+    <string name="uq_face_facial_recognition_face_bad_quality">Ensure good lighting conditions to capture a good quality selfie</string>
+    <string name="uq_face_facial_recognition_face_no_mouth_detected">Remove anything that covers your face, e.g. mask</string>
+    <string name="uq_face_facial_recognition_face_no_eyes_detected">Remove anything that can cover your eyes, e.g. sun glasses</string>
+    <string name="uq_face_facial_recognition_no_look">Look straight to the camera</string>
+    <string name="uq_face_facial_recognition_face_eyes_too_dark">Change lighting conditions to avoid the shadow effect on your face</string>
+    <string name="uq_face_facial_recognition_face_too_light">Change lighting conditions to avoid strong light reflections on your face</string>
+    <string name="uq_face_facial_recognition_face_too_far">Move closer to the oval</string>
+    <string name="uq_face_facial_recognition_face_too_close">Move further from the oval</string>
+    <string name="uq_face_facial_recognition_not_centered">Center your face in the oval</string>
+
+
+
+    <!--===== Background Check =====--> 
+    
+    <string name="uq_bg_check_background_check">Background Check</string>
+    <string name="uq_bg_check_background_check_description">TBD: A text that explains what is a background check and what are the checks that will be performed.</string>
+    <string name="uq_bg_check_decline">Decline</string>
+    <string name="uq_bg_check_consent">Consent</string>
+    <string name="uq_bg_check_continue">Continue</string>
+    <string name="uq_bg_check_sending_status">Processing&#8230;</string>
+    <string name="uq_bg_check_cancel">Cancel</string>
+    <string name="uq_bg_check_error_decline">Are you sure you want to decline?</string>
+    <string name="uq_bg_check_error_exit">Are you sure you want to exit the enrollment process?</string>
+    
+    
+
+    <!--===== Lookup =====--> 
+
+    <string name="uq_lookup_button_title_submit">Submit</string>
+    <string name="uq_lookup_gha_voter_id_placeholder_text_voter_id">Enter your voter ID</string>
+    <string name="uq_lookup_gha_voter_id_feedback_text_voter_id">Please enter your voter ID</string>
+    <string name="uq_lookup_gha_voter_id_placeholder_text_full_name">Enter your full name</string>
+    <string name="uq_lookup_gha_voter_id_feedback_text_full_name">Please enter your full name</string>
+    <string name="uq_lookup_gha_ssni_placeholder_text_socials_security_number">Enter your social security number</string>
+    <string name="uq_lookup_gha_ssni_feedback_text_social_security_number">Please enter your social security number</string>
+    <string name="uq_lookup_gha_ssni_placeholder_text_full_name">Enter your full name</string>
+    <string name="uq_lookup_gha_ssni_feedback_text_full_name">Please enter your full name</string>
+    <string name="uq_lookup_gha_ssni_placeholder_text_date_of_birth">Select your date of birth</string>
+    <string name="uq_lookup_gha_ssni_feedback_text_date_of_birth">Please select your date of birth</string>
+    <string name="uq_lookup_gha_dl_placeholder_text_license_number">Enter your driving license number</string>
+    <string name="uq_lookup_gha_dl_feedback_text_license_number">Please enter your driving license number</string>
+    <string name="uq_lookup_gha_dl_placeholder_text_full_name">Enter your full name</string>
+    <string name="uq_lookup_gha_dl_feedback_text_full_name">Please enter your full name</string>
+    <string name="uq_lookup_gha_dl_placeholder_text_date_of_birth">Select your date of birth</string>
+    <string name="uq_lookup_gha_dl_feedback_text_date_of_birth">Please select your date of birth</string>
+    <string name="uq_lookup_ind_id_placeholder_document_number">Enter your Aadhaar number</string>
+    <string name="uq_lookup_ind_id_feedback_text_document_number">Please enter your Aadhaar number</string>
+    <string name="uq_lookup_ind_id_subtitle_text_otp">Enter OTP code received on your mobile number</string>
+    <string name="uq_lookup_ind_id_feedback_text_otp">Please enter your OTP code</string>
+    <string name="uq_lookup_ind_id_feedback_text_time_remaining">Time Remaining: %s</string>
+    <string name="uq_lookup_ind_id_feedback_text_time_expired">OTP expired</string>
+    <string name="uq_lookup_ind_pan_placeholder_text_document_number">Enter your PAN number</string>
+    <string name="uq_lookup_ind_pan_feedback_text_document_number">Please enter your PAN document number</string>
+    <string name="uq_lookup_ken_id_placeholder_identity_number">Enter your ID number</string>
+    <string name="uq_lookup_ken_id_feedback_text_identity_number">Please enter your ID number</string>
+    <string name="uq_lookup_ken_id_placeholder_text_first_name">Enter your first name</string>
+    <string name="uq_lookup_ken_id_feedback_text_first_name">Please enter your first name</string>
+    <string name="uq_lookup_ken_id_placeholder_text_last_name">Enter your last name</string>
+    <string name="uq_lookup_ken_id_feedback_text_last_name">Please enter your last name</string>
+    <string name="uq_lookup_ken_id_placeholder_text_date_of_birth">Select your date of birth</string>
+    <string name="uq_lookup_ken_id_feedback_text_date_of_birth">Please select your date of birth</string>
+    <string name="uq_lookup_ken_id_placeholder_text_gender">Select your gender</string>
+    <string name="uq_lookup_ken_id_feedback_text_gender">Please select your gender</string>
+    <string name="uq_lookup_nga_voter_id_placeholder_text_identity_number">Enter your identity number</string>
+    <string name="uq_lookup_nga_voter_id_feedback_text_identity_number">Please enter your identity number</string>
+    <string name="uq_lookup_nga_voter_id_placeholder_text_date_of_birth">Select your date of birth</string>
+    <string name="uq_lookup_nga_voter_id_feedback_text_date_of_birth">Please select your date of birth</string>
+    <string name="uq_lookup_nga_voter_id_placeholder_text_first_name">Enter your first name</string>
+    <string name="uq_lookup_nga_voter_id_feedback_text_first_name">Please enter your first name</string>
+    <string name="uq_lookup_nga_voter_id_placeholder_text_last_name">Enter your last name</string>
+    <string name="uq_lookup_nga_voter_id_feedback_text_last_name">Please enter your last name</string>
+    <string name="uq_lookup_nga_nin_placeholder_text_nin">Enter your NIN</string>
+    <string name="uq_lookup_nga_nin_feedback_text_nin">Please enter your 11 numbers NIN</string>
+    <string name="uq_lookup_nga_nin_placeholder_text_first_name">Enter your first name</string>
+    <string name="uq_lookup_nga_nin_feedback_text_first_name">Please enter your first name</string>
+    <string name="uq_lookup_nga_nin_placeholder_text_last_name">Enter your last name</string>
+    <string name="uq_lookup_nga_nin_feedback_text_last_name">Please enter your last name</string>
+    <string name="uq_lookup_nga_dl_placeholder_text_license_number">Enter your license number</string>
+    <string name="uq_lookup_nga_dl_feedback_text_license_number">Please enter your license number</string>
+    <string name="uq_lookup_nga_dl_placeholder_text_date_of_birth">Select your date of birth</string>
+    <string name="uq_lookup_nga_dl_feedback_text_date_of_birth">Please select your date of birth</string>
+    <string name="uq_lookup_nga_bvn_placeholder_text_bvn">Enter your BVN number</string>
+    <string name="uq_lookup_nga_bvn_feedback_text_bvn">Please enter your BVN number</string>
+    <string name="uq_lookup_nga_bvn_placeholder_text_first_name">Enter your first name</string>
+    <string name="uq_lookup_nga_bvn_feedback_text_first_name">Please enter your first name</string>
+    <string name="uq_lookup_nga_bvn_placeholder_text_last_name">Enter your last name</string>
+    <string name="uq_lookup_nga_bvn_feedback_text_last_name">Please enter your last name</string>
+    <string name="uq_lookup_zaf_id_placeholder_text_identity_number">Enter your identity number</string>
+    <string name="uq_lookup_zaf_id_feedback_text_identity_number">Please enter your identity number</string>
+    <string name="uq_lookup_uga_voter_id_placeholder_text_document_number">Enter your voter ID</string>
+    <string name="uq_lookup_uga_voter_id_feedback_text_document_number">Please enter your voter ID</string>
+    <string name="uq_lookup_uga_voter_id_id_placeholder_text_first_name">Enter your first name</string>
+    <string name="uq_lookup_uga_voter_id_id_feedback_text_first_name">Please enter your first name</string>
+    <string name="uq_lookup_uga_voter_id_placeholder_text_last_name">Enter your last name</string>
+    <string name="uq_lookup_uga_voter_id_feedback_text_last_name">Please enter your last name</string>
+    <string name="uq_lookup_text_gender_male">Male</string>
+    <string name="uq_lookup_text_gender_female">Female</string>
+    <string name="uq_lookup_date_format_text">dd/MM/yyyy</string>
+    <string name="uq_lookup_otp_title_text">Verify OTP</string>
+    <string name="uq_lookup_error_id_not_found">Identity number not found, please check the value you input in the form</string>
+    <string name="uq_lookup_error_invalid_otp">Invalid OTP number, please check and try again</string>
+    <string name="uq_lookup_feedback_expired_otp">OTP is expired, please click the resend button to receive a new OTP code</string>
+    <string name="uq_lookup_error_invalid_input">We didn\'t find any document, please check that the values in the form are correct</string>
+    <string name="uq_lookup_alert_btn">Try Again</string>
+
+    <string-array name="uq_lookup_gender_options">
+        <item>@string/uq_lookup_text_gender_male</item>
+        <item>@string/uq_lookup_text_gender_female</item>
+    </string-array>
+
+
+    <string name="uq_lookup_otp_expired">OTP expired</string>
+    <string name="uq_lookup_enter_otp_code_received_on_your_mobile_number">Enter OTP code received on your mobile number</string>
+    <string name="uq_lookup_button_title_resend">Resend</string>
+    <string name="uq_lookup_check_sending_status">Processing&#8230;</string>
+    
+</resources>

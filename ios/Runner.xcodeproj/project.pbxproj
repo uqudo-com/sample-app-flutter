@@ -16,8 +16,8 @@
 		97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FD1CF9000F007C117D /* Assets.xcassets */; };
 		97C147011CF9000F007C117D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */; };
 		A37CB0C7038B87FC3135ED71 /* Pods_Runner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 099AAB4C4B20CF192B847B5D /* Pods_Runner.framework */; };
+		BBC388B92CAD3FF600107CD6 /* uq-styles.plist in Resources */ = {isa = PBXBuildFile; fileRef = BBC388B82CAD3FF600107CD6 /* uq-styles.plist */; };
 		E38F631F2C33F0A900BB6C64 /* uq-text-ar.plist in Resources */ = {isa = PBXBuildFile; fileRef = E38F631E2C33F0A900BB6C64 /* uq-text-ar.plist */; };
-		E38F63212C33F43C00BB6C64 /* uq-text-ar.plist in Resources */ = {isa = PBXBuildFile; fileRef = E38F63202C33F43C00BB6C64 /* uq-text-ar.plist */; };
 		E38F63232C33F53100BB6C64 /* uq-text.plist in Resources */ = {isa = PBXBuildFile; fileRef = E38F63222C33F53100BB6C64 /* uq-text.plist */; };
 /* End PBXBuildFile section */
 
@@ -67,8 +67,8 @@
 		97C147001CF9000F007C117D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		97C147021CF9000F007C117D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9D7CA8914253202DCF797977 /* Pods-RunnerTests.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunnerTests.profile.xcconfig"; path = "Target Support Files/Pods-RunnerTests/Pods-RunnerTests.profile.xcconfig"; sourceTree = "<group>"; };
+		BBC388B82CAD3FF600107CD6 /* uq-styles.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "uq-styles.plist"; sourceTree = "<group>"; };
 		E38F631E2C33F0A900BB6C64 /* uq-text-ar.plist */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "uq-text-ar.plist"; sourceTree = "<group>"; };
-		E38F63202C33F43C00BB6C64 /* uq-text-ar.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "uq-text-ar.plist"; sourceTree = "<group>"; };
 		E38F63222C33F53100BB6C64 /* uq-text.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "uq-text.plist"; sourceTree = "<group>"; };
 		E41A0981919C65BB0CF955DA /* Pods_RunnerTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RunnerTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -151,7 +151,6 @@
 			children = (
 				E38F63222C33F53100BB6C64 /* uq-text.plist */,
 				E38F631E2C33F0A900BB6C64 /* uq-text-ar.plist */,
-				E38F63202C33F43C00BB6C64 /* uq-text-ar.plist */,
 				97C146FA1CF9000F007C117D /* Main.storyboard */,
 				97C146FD1CF9000F007C117D /* Assets.xcassets */,
 				97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */,
@@ -160,6 +159,7 @@
 				1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */,
 				74858FAE1ED2DC5600515810 /* AppDelegate.swift */,
 				74858FAD1ED2DC5600515810 /* Runner-Bridging-Header.h */,
+				BBC388B82CAD3FF600107CD6 /* uq-styles.plist */,
 			);
 			path = Runner;
 			sourceTree = "<group>";
@@ -268,9 +268,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BBC388B92CAD3FF600107CD6 /* uq-styles.plist in Resources */,
 				97C147011CF9000F007C117D /* LaunchScreen.storyboard in Resources */,
 				3B3967161E833CAA004F5970 /* AppFrameworkInfo.plist in Resources */,
-				E38F63212C33F43C00BB6C64 /* uq-text-ar.plist in Resources */,
 				E38F63232C33F53100BB6C64 /* uq-text.plist in Resources */,
 				E38F631F2C33F0A900BB6C64 /* uq-text-ar.plist in Resources */,
 				97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */,
