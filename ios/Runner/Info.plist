@@ -58,8 +58,6 @@
 	</array>
 	<key>NSCameraUsageDescription</key>
 	<string>We need access to your camera to take photos.</string>
-	<key>UQApiBaseURL</key>
-	<string>https://id.dev.uqudo.io</string>
 	<key>com.apple.developer.nfc.readersession.iso7816.select-identifiers</key>
 	<array>
 		<string>A0000002471001</string>
