@@ -49,7 +49,7 @@ class _MyAppState extends State<MyApp> {
       final String token = "ACCESS_TOKEN_HERE";
 
       var document = DocumentBuilder()
-          .setDocumentType(DocumentType.UAE_DL)
+          .setDocumentType(DocumentType.UAE_ID)
           .build();
 
       var enrollObject = EnrollmentBuilder()
