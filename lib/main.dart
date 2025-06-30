@@ -54,9 +54,7 @@ class _MyAppState extends State<MyApp> {
 
       var enrollObject = EnrollmentBuilder()
           .setToken(token)
-          .allowNonPhysicalDocuments()
           .disableSecureWindow()
-          .disableTamperingRejection()
           .add(document)
           .setAppearanceMode(AppearanceMode.SYSTEM)
           .build();
